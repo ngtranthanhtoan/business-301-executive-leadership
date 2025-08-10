@@ -6,6 +6,18 @@
 - Stage: $48M ARR, EBITDA 11%, private-equity backed; goal to 2x in 24 months
 - Initial symptoms: Late arrivals, first-time fix rate at 68%, NPS 41, tech churn 28%, weekly flameouts in scheduling, board surprises on margin variance
 
+### How to Use This Case Study
+- Skim the section headers in order; each mirrors the book’s chapter sequence.
+- In each section, first read the cross-company choices, then the department breakdowns.
+- Copy the artifacts list and adapt templates under `templates/` to your org.
+
+### Notation (in this file)
+- DRI = Directly Responsible Individual
+- SLO = Service Level Objective
+- Ops = Operations (we use “Operations” for headings and “Ops” in examples)
+- CX = Customer Support
+- FTF = First-Time Fix
+
 ---
 
 ## 0–30 Days: The Executive Shift Installed
@@ -34,6 +46,28 @@
 - Stories: "Grandma’s AC first-time fix in July heat"; "Same-day water heater rescue"
 - Call to action: "Run the scoping checklist, update parts status in-app, and keep routes tight."
 
+### Department OKRs & Contributions (Quarter 1)
+- Operations
+  - Objective: Reliable, dense daily routes
+  - KRs: On-time arrival 90%; Avg drive time -15%; Jobs/route +10%
+  - Contribution: Own routing cadence; enforce variance notes; unblock cross-metro resource shifts
+- Technicians
+  - Objective: First-time fix as the norm
+  - KRs: FTF 82%; Repeat visit rate -25%; Safety incidents/10k jobs < 1
+  - Contribution: Scoping checklist compliance 95%; parts readiness confirmations
+- Engineering (Platform)
+  - Objective: Make reliability the default in tooling
+  - KRs: Dispatch API SLO 99.9%; ETA MAPE < 10%; Mobile app crash rate < 0.5%
+  - Contribution: Routing adapter, inventory service, observability
+- Customer Support (CX)
+  - Objective: Transparent, trust-building experience
+  - KRs: 5‑star reviews 65%; NPS 60+; Complaint rate/100 jobs -30%
+  - Contribution: 2-way SMS, proactive delay alerts, closed-loop follow-ups
+- Supply Chain
+  - Objective: Parts ready before wheels roll
+  - KRs: Parts unavailability rate < 5%; Backorder SLA < 24h; Pre-kit accuracy 98%
+  - Contribution: Pre-kitting flow, vendor SLAs, cycle counts
+
 ---
 
 ## The Operating System (OS)
@@ -48,10 +82,31 @@
 - Standards: Single metrics source; DRIs on every metric; decision brief required for Type 1 proposals; project health codes (G/Y/R)
 
 ### Sample WBR Owner Slice
-- Ops DRI: On-time arrival, First-time fix
+- Operations DRI: On-time arrival, First-time fix
 - Dispatch DRI: Route density (jobs per route), Average drive time
-- Supply DRI: Parts unavailability rate, Backorder SLA
-- CX DRI: 5-star %, Repeat call rate
+- Supply Chain DRI: Parts unavailability rate, Backorder SLA
+- Customer Support (CX) DRI: 5-star %, Repeat call rate
+
+### Departmental Cadence Maps
+- Operations
+  - Daily: 15-min route readiness huddle (dispatch + supervisors)
+  - Weekly: Regional operations review (variance deltas; top 3 blockers; actions/owners)
+- Technicians
+  - Daily: Safety + scoping standup; route preview
+  - Weekly: FTF coaching, parts feedback to Supply Chain, demo of learnings
+- Engineering
+  - Weekly: Reliability review (SLO/error budget), incident postmortems, platform roadmap sync with Operations
+  - Bi-weekly: Product/Eng sync on mobile UX for scoping/comms
+- Customer Support
+  - Daily: Queue health, top intents, hold/abandon metrics
+  - Weekly: NPS detractor analysis; process fixes with Operations
+- Supply Chain
+  - Daily: Backorder review, pre-kitting exceptions
+  - Weekly: Vendor scorecards; cycle count reconciliation
+
+### Forum Inputs/Outputs by Function
+- Inputs: Standardized slices from the single dashboard, per-function variance notes, cross-function dependencies
+- Outputs: Decision log entries with DRIs, ETA adjustments, parts pulls, comms scripts
 
 ---
 
@@ -67,12 +122,19 @@
 - AI triage: <10% average handle time improvement by month 2 → stop
 - Marketplace: <30% NPS for specialty partners after 100 jobs → stop/replace vendors
 
+### Department Investment Plans (year-to-date)
+- Operations: Routing optimization + training; telematics; supervisor coaching program
+- Technicians: Tooling stipends tied to FTF; safety equipment; certification credits
+- Engineering: Routing adapter; inventory service; observability stack; mobile offline mode
+- Customer Support: 2‑way SMS; CRM workflow automation; QA program
+- Supply Chain: Pre-kitting stations; vendor integration; regional micro-warehouses pilot
+
 ---
 
 ## Org Design & Talent Density
 
 ### Structure follows strategy
-- Created Regional Pods (Ops Manager + Dispatch Lead + CX Lead + Supply Lead) per metro to drive local reliability
+- Created Regional Pods (Operations Manager + Dispatch Lead + Customer Support Lead + Supply Chain Lead) per metro to drive local reliability
 - Central Platform Team for routing, data, and tooling
 
 ### Spans & layers
@@ -84,6 +146,14 @@
 ### Succession
 - Ready-now leads identified for each region; 9-box completed for top 50 roles; backfills planned for two at-risk regions
 
+### Functional Role Definitions & Interfaces
+- Operations: Owns daily reliability, routing adherence, cross-metro balancing
+- Technicians: Own FTF and customer experience on site; escalate blockers via app
+- Engineering: Own platform reliability, routing accuracy, technician app UX
+- Customer Support: Own communications, expectation-setting, recovery gestures
+- Supply Chain: Own parts readiness, pre-kitting, vendor performance
+- Interfaces: Defined SLAs (e.g., parts readiness SLA to Operations; delay alerts SLA to Customer Support)
+
 ---
 
 ## Decision Architecture
@@ -94,15 +164,22 @@
 
 ### RAPID roles (example: Switch to dynamic routing platform)
 - Recommend: Platform Lead (brief owner)
-- Agree: Finance (unit economics), Ops (SLA impact)
-- Perform: Dispatch and Field Ops
-- Input: CX (NPS impact), Supply (parts timing)
+- Agree: Finance (unit economics), Operations (SLA impact)
+- Perform: Dispatch and Field Operations
+- Input: Customer Support (NPS impact), Supply Chain (parts timing)
 - Decide: COO
 
 ### Escalation ladder
 - Level 1: Dispatch Lead/Regional Pod
-- Level 2: Ops Director
+- Level 2: Operations Director
 - Level 3: COO/Exec team (rare; Type 1 only)
+
+### Department Decision Catalogs (examples)
+- Operations: Same-day route rebalancing (Type 2); overtime approvals (Type 2); cross-metro crew shifts (Type 1 if >2 days)
+- Technicians: On-site part substitutions within price guardrails (Type 2); warranty replacements (Type 2); specialty subcontract (Type 1 if safety risk)
+- Engineering: Feature flags for routing changes (Type 2); vendor switch (Type 1); SLO target changes (Type 1)
+- Customer Support: Service recovery credits up to threshold (Type 2); public statements in incidents (Type 1)
+- Supply Chain: Vendor backorder substitution lists (Type 2); vendor replacement (Type 1)
 
 ---
 
@@ -117,12 +194,25 @@
 ### Outward (partners/customers)
 - "Reliability First" campaign: arrival windows, 2-way SMS, parts-ready badge
 
+### Function-Specific Scripts
+- Operations: “This week’s reliability lever” + decision asks; concise ETA changes
+- Technicians: “FTF tip of the week” + safety reminder + story
+- Engineering: “Error budget status” + what changed behind the scenes
+- Customer Support: “Top 3 intents and how we’re fixing them” + recovery language
+
 ---
 
 ## Governance & Stakeholders
 - Board packet TOC: Changes-and-asks cover; NSM/FTF/Utilization; portfolio; risks; hiring; cash
 - Stakeholder map: PE sponsor (ally, high influence); city licensing (neutral → educate); major suppliers (ally); marketplace partners (varied)
 - Compliance embedded in OS: Safety metrics in WBR; licensing audits quarterly
+
+### Controls by Function
+- Operations: Safety audits; route adherence reviews; vehicle/telematics compliance
+- Technicians: Certification tracking; ride-alongs; job-site photo verification
+- Engineering: Change management; access controls; incident response SOPs
+- Customer Support: Call QA; privacy/PII handling; adverse event scripts
+- Supply Chain: Vendor compliance; inventory accuracy; chain-of-custody logs
 
 ---
 
@@ -142,6 +232,13 @@
 - "First-Time Fix Friday" demo: showcase saves and learnings
 - Monthly "Customer Story" rotation
 
+### Function-Specific Behaviors & Anti-Patterns
+- Operations: Do — publish variance and fixes; Don’t — hide misses behind anecdotes
+- Technicians: Do — escalate early; Don’t — improvise outside guardrails
+- Engineering: Do — protect reliability; Don’t — ship silent changes that affect routes
+- Customer Support: Do — acknowledge and set expectations; Don’t — overpromise ETAs
+- Supply Chain: Do — broadcast shortages early; Don’t — ship partial kits without flags
+
 ---
 
 ## Product & Platform Scaling
@@ -156,15 +253,26 @@
 - Build: Scoping checklist workflow + parts pre-kit logic (our moat)
 - Partner: Marketplace for specialty repairs with NPS gating
 
+### Engineering Enablers & Backlog Themes
+- Enablers: Offline-capable mobile flows; barcode scanning for kits; push-based ETA updates
+- Themes: Routing accuracy; technician UX speed; inventory integrity; incident tooling
+
 ---
 
 ## Crisis Leadership
 
 ### Scenario: Viral post of late arrival + water damage claim
-- Incident Commander: Regional Ops Manager
-- Ops Lead: Dispatch Lead; Comms Lead: CX Director; Legal/Risk: GC; Liaison: COO
+- Incident Commander: Regional Operations Manager
+- Operations Lead: Dispatch Lead; Comms Lead: Customer Support Director; Legal/Risk: GC; Liaison: COO
 - First 2 hours: Acknowledge, service pause in block, on-site remediation, claim process started; internal/external aligned update cadence
 - 72-hour debrief: Root cause (parts not ready + unrealistic routing window), fixes (harder routing constraints, parts SLA), story of recovery to customers
+
+### Functional Runbooks (first 24 hours)
+- Operations: Lock routing window; assign remediation squad; verify similar-risk jobs
+- Technicians: Safety hold on water-line work until checklist pass/parts ready
+- Engineering: Freeze risky flags; add temporary ETA slack; open incident room
+- Customer Support: Single script; status page updates; proactive outreach to affected customers
+- Supply Chain: Audit kits for the job type; rush orders; vendor review
 
 ---
 
@@ -198,12 +306,34 @@ flowchart TB
 - Monthly: KPI review; budget shifts tied to metrics
 - Quarterly: NSM validation; reset targets
 
+### Department Scorecards (targets)
+- Operations: On-time 90%; Drive time -15%; Jobs/route +10%
+- Technicians: FTF 82%; Repeat -25%; Safety <1/10k jobs
+- Engineering: SLO 99.9%; ETA MAPE <10%; Crash <0.5%
+- Customer Support: 5‑star 65%; Complaint rate -30%; Abandon <3%
+- Supply Chain: Parts ready >95%; Backorder SLA <24h; Kit accuracy 98%
+
 ---
 
 ## 30/60/90 Day Plan (Applied)
 - 0–30: Charter, OS install, reliability blitz, checklist training, routing vendor selection
 - 31–60: Pre-kitting live in 3 cities, dynamic routing rollout, incentive redesign, NSM dashboard live
 - 61–90: Maintenance plan pilot, 2-city expansion decision, decision audit #1, governance refresh
+
+### Department Workstreams
+- Operations: Route policy, telematics rollout, supervisor coaching
+- Technicians: Certification push, FTF coaching, tool stipends
+- Engineering: Routing adapter MVP, observability dashboard, offline mobile
+- Customer Support: 2‑way SMS rollout, QA program, recovery script library
+- Supply Chain: Micro-warehouse pilot, vendor SLAs, cycle counts
+
+---
+
+## Risks & Dependencies
+- Routing vendor reliability; vendor SLAs
+- Hiring pipeline for high-density techs; supervisor bench
+- Change management fatigue; communicate with consistency
+- Inventory accuracy; barcode/scan adoption
 
 ---
 
