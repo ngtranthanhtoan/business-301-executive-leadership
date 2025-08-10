@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Front Matter](executive_leadership_301_front_matter.md)
-- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_01.md)
+- [Chapter 01: The Executive Shift](chapter-01-the-executive-shift.md)
 - [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_02.md)
 - [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md)
 - [Chapter 4: Capital Allocation](executive_leadership_301_chapter_04.md)
@@ -55,6 +55,6 @@
 Templates are available in the `templates/` directory and linked from the relevant chapters.
 
 ## Next
-- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_01.md)
+- [Chapter 01: The Executive Shift](chapter-01-the-executive-shift.md)
 
 

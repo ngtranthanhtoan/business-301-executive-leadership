@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Recommended References & Future Learning Directions
+# References
 
 These resources expand on each chapter of Executive Leadership 301.  
 Follow the **Directions for Deep Dive** to continue your learning in a focused, chapter-by-chapter progression.

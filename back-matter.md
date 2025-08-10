@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Back Matter
+# Back Matter
 
 ## Executive Playbook (all templates)
 

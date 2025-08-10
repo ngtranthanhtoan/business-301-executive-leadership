@@ -95,7 +95,7 @@ A scaleup starved its cash engine while funding 12 small bets. By moving to 55% 
 
 ---
 
-## Chapter 4 “Ship It” Checklist
+## Chapter 04: Capital Allocation
 - [ ] Written portfolio map with bet types and sizes
 - [ ] ROI expectations and kill criteria for each investment
 - [ ] Capital allocation cadence scheduled

@@ -117,7 +117,7 @@ A team tracked signups without activation. By adopting a KPI tree tied to NSM (r
 - [ ] Metric review cadence locked
 
 ## Next
-- [Glossary](executive_leadership_301_glossary.md)
+- [Glossary](glossary.md)
 
 ## Embedded Templates
 

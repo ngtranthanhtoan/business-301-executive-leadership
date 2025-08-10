@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Glossary
+# Glossary
 
 - DRI (Directly Responsible Individual): The single accountable owner for an outcome.
 - WBR (Weekly Business Review): Weekly operating forum focused on execution, metrics, and unblockers.

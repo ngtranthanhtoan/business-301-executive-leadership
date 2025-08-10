@@ -97,7 +97,7 @@ A new VP inherited firefighting chaos. They ran a calendar audit (Four Rooms), d
 ---
 
 ## Connects to
-- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_06.md) (frameworks; escalation; audit)
+- [Chapter 6: Decision Architecture](chapter-06-decision-architecture.md) (frameworks; escalation; audit)
 - [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (forums and standards)
 - [Chapter 4: Capital Allocation](executive_leadership_301_chapter_04.md) (kill criteria at approval)
 - [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (DRIs and dashboards)
