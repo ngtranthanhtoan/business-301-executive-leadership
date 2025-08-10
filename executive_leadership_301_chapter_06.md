@@ -38,7 +38,6 @@ flowchart TB
   L1["Level 1 Team/Individual <br> (Type 2 decisions default here)"] --> L2["Level 2 Function/Dept Head"]
   L2 --> L3["Level 3 Exec/CEO <br> (Type 1 decisions rare here)"]
 ```
-
 ---
 
 ## The Decision Brief (1–2 Pages)
