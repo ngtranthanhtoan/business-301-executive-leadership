@@ -52,7 +52,7 @@
 ## Visual index (Mermaid snippets available inside chapters)
 - Four Rooms; Executive OS layers; Portfolio bet sizing; Decision ladder; KPI tree.
 
-See the `templates/` directory for editable versions of all artifacts mentioned in this book.
+Templates are embedded in the relevant chapters.
 
 ## Next
 - [Chapter 1: The Executive Shift](executive_leadership_301_chapter_1.md)

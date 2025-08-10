@@ -1,22 +1,8 @@
 # Executive Leadership 301 — Back Matter
 
 ## Executive Playbook (all templates)
-See the [`templates/`](templates/) directory for editable versions. Below is a linked list:
 
-- [Executive Charter](templates/executive_charter.md)
-- [Decision Rights Map](templates/decision_rights_map.md)
-- [Decision Brief](templates/decision_brief.md)
-- [WBR Agenda](templates/wbr_agenda.md)
-- [MBR Agenda](templates/mbr_agenda.md)
-- [Board Packet TOC](templates/board_packet_toc.md)
-- [Stakeholder Map](templates/stakeholder_map.md)
-- [Risk Register](templates/risk_register.md)
-- [Crisis Playbook](templates/crisis_playbook.md)
-- [KPI Tree Worksheet](templates/kpi_tree_worksheet.md)
-- [Dashboard Spec](templates/dashboard_spec.md)
-- [Culture Doc](templates/culture_doc.md)
-- [Succession Plan Grid](templates/succession_plan_grid.md)
-- [Build/Buy/Partner Scorecard](templates/build_buy_partner_scorecard.md)
+Templates are embedded in the relevant chapters with blank versions and practical examples. Refer to each chapter for editable content.
 
 These templates are designed to be customized for your organization. Start with the ones referenced in your priority chapters.
 

@@ -26,7 +26,7 @@ This repository contains the Markdown files for the book *Executive Leadership 3
 - [Back Matter](executive_leadership_301_back_matter.md)
 
 ## Templates
-Editable templates are available in the [`templates/`](templates/) directory. These include tools like Executive Charter, Decision Rights Map, and more, referenced throughout the book.
+Templates are embedded in the relevant chapters. These include tools like Executive Charter, Decision Rights Map, and more, referenced throughout the book.
 
 ## How to Read
 - View in a Markdown viewer or GitHub for hyperlinks and navigation.
