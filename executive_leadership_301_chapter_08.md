@@ -86,9 +86,9 @@ A CEO struggled with board pushback. By pre-wiring decisions with 1:1s and a cri
 ---
 
 ## Connects to
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (OS forums as primary governance)
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md) (Capital decisions and board oversight)
-- [Chapter 7: Executive Communication](executive_leadership_301_chapter_7.md) (Upward/outward communication discipline)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (OS forums as primary governance)
+- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_04.md) (Capital decisions and board oversight)
+- [Chapter 7: Executive Communication](executive_leadership_301_chapter_07.md) (Upward/outward communication discipline)
 - [Chapter 11: Crisis Leadership](executive_leadership_301_chapter_11.md) (Crisis governance and roles)
 
 ---
@@ -101,111 +101,10 @@ A CEO struggled with board pushback. By pre-wiring decisions with 1:1s and a cri
 - [ ] Governance reviewed quarterly for speed + effectiveness
 
 ## Next
-- [Chapter 9: Culture by Design](executive_leadership_301_chapter_9.md)
+- [Chapter 9: Culture by Design](executive_leadership_301_chapter_09.md)
 
 ## Embedded Templates
 
-# Board Packet Table of Contents
-
-## Blank Template
-
-## [Quarter/Year] Board Update - [Company]
-
-1. **Executive Summary** (1 page) - [Owner]  
-   - [Description]
-
-2. **Financials** (pages) - [Owner]  
-   - [Items]
-
-[Add sections as needed]
-
-Appendices: [List]
-
-Prepared: [Date] | Distribution: [Method]
-
-## Practical Example
-
-## Q3 2023 Board Update - Acme Tech
-
-1. **Executive Summary** (1 page) - CEO  
-   - Key wins, challenges, asks.
-
-2. **Financials** (2 pages) - CFO  
-   - P&L, balance sheet, cash flow.  
-   - Variance analysis vs. plan.
-
-3. **Metrics Dashboard** (1 page) - COO  
-   - NSM, KPIs, trends.
-
-4. **Strategic Updates** (3 pages) - CEO/VPs  
-   - Progress on key bets.  
-   - Market/competitive insights.
-
-5. **Risk Register** (1 page) - CRO  
-   - Top risks, mitigations.
-
-6. **Talent & Org** (1 page) - CHRO  
-   - Key hires, succession, culture pulse.
-
-7. **Decisions Needed** (1 page) - CEO  
-   - e.g., Approve budget reallocation.
-
-Appendices: Detailed financials, product roadmap.
-
-Prepared: [Date] | Distribution: Secure link 48h pre-meeting.
-
-# Stakeholder Map
-
-## Blank Template
-
-### Key Stakeholders
-| Stakeholder | Role | Influence (H/M/L) | Alignment (Ally/Neutral/Opposed) | Engagement Plan |
-|-------------|------|-------------------|-----------------------------------|-----------------|
-| [Name] | [Role] | [H/M/L] | [Alignment] | [Plan] |
-
-### Visualization
-- [Notes on groups]
-
-Updated: [Date] | Owner: [Name]
-
-## Practical Example
-
-### Key Stakeholders
-| Stakeholder | Role | Influence (H/M/L) | Alignment (Ally/Neutral/Opposed) | Engagement Plan |
-|-------------|------|-------------------|-----------------------------------|-----------------|
-| Board Chair | Oversight | H | Ally | Quarterly 1:1; pre-wire decisions. |
-| Major Investor | Funding | H | Neutral | Monthly updates; invite to strategy sessions. |
-| Key Customer | Revenue | M | Ally | Advisory council; beta access. |
-| Regulator | Compliance | H | Neutral | Annual meetings; proactive reporting. |
-| Competitor Partner | Coopetition | M | Opposed | Monitor moves; seek win-win alliances. |
-| Internal: Sales Lead | Execution | M | Ally | Weekly syncs; empower with resources. |
-
-### Visualization
-- High Influence/Ally: Close collaboration.
-- High Influence/Opposed: Neutralize via data/relationships.
-
-Updated: [Date] | Owner: [CEO]
-
-# Risk Register
-
-## Blank Template
-
-| Risk ID | Description | Likelihood (H/M/L) | Impact (H/M/L) | Mitigation | Owner | Status |
-|---------|-------------|--------------------|----------------|------------|-------|--------|
-| [ID] | [Desc] | [L/M/H] | [L/M/H] | [Plan] | [Role] | [Status] |
-
-Last Updated: [Date]  
-Review Cadence: [Cadence]
-
-## Practical Example
-
-| Risk ID | Description | Likelihood (H/M/L) | Impact (H/M/L) | Mitigation | Owner | Status |
-|---------|-------------|--------------------|----------------|------------|-------|--------|
-| R001 | Data Breach | M | H | Encryption, audits, training | CTO | Monitored |
-| R002 | Key Talent Loss | H | M | Succession plans, retention bonuses | CHRO | Active |
-| R003 | Market Downturn | L | H | Diversify revenue, cash reserves | CFO | Reviewed |
-| R004 | Supply Chain Disruption | M | M | Multiple vendors, inventory buffers | COO | Mitigated |
-| R005 | Regulatory Changes | M | H | Legal monitoring, compliance team | General Counsel | Ongoing |
-
-Last Updated: Q3 2023  
-Review Cadence: Monthly in MBR
+- [Board Packet Table of Contents](./templates/board_packet_toc.md)
+- [Stakeholder Map](./templates/stakeholder_map.md)
+- [Risk Register](./templates/risk_register.md)

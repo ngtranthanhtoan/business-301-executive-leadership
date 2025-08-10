@@ -37,30 +37,8 @@ A good narrative:
 5. **Call to Action** — What you want the listener to do now.
 
 ## Crafting Your Strategy Narrative
-**Template:**
-```
-Headline: <One sentence version of the strategy>
 
-Diagnosis:
-- What’s true about the market, competition, or us that creates urgency?
-
-Guiding Policy:
-- How we’re going to win (and what we won’t do).
-
-3-5 Strategic Pillars:
-1) Pillar name — why it matters — how it looks in action.
-2) ...
-3) ...
-
-Coherent Actions:
-- For each pillar, 1–3 tangible actions or projects.
-
-Proof Points:
-- Early wins or signals that the strategy works.
-
-Call to Action:
-- What every employee should start/stop/continue doing now.
-```
+See [Strategy Narrative Template](./templates/strategy_narrative.md)
 
 ## Embedding Strategy in the Organization
 - Use **repetition without boredom** — same story, different angles, in every forum.
@@ -94,9 +72,9 @@ When developing strategy and narrative, steer clear of these common pitfalls:
 A company’s strategy deck wasn’t adopted. They rewrote it to a one-sentence headline, three pillars, and five stories. Manager retell scores hit 90%, and execution velocity increased as teams aligned on the narrative.
 
 ## Connects to
-- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_1.md) (Executive Charter and Time Portfolio)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (OS forums for repeated narrative)
-- [Chapter 7: Executive Communication](executive_leadership_301_chapter_7.md) (patterns to distribute strategy)
+- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_01.md) (Executive Charter and Time Portfolio)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (OS forums for repeated narrative)
+- [Chapter 7: Executive Communication](executive_leadership_301_chapter_07.md) (patterns to distribute strategy)
 - [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Proof points on dashboards)
 
 ## Chapter 2 “Ship It” Checklist
@@ -107,4 +85,4 @@ A company’s strategy deck wasn’t adopted. They rewrote it to a one-sentence 
 - [ ] Distribution plan for next 30 days locked
 
 ## Next
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md)

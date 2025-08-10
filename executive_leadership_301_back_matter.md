@@ -2,7 +2,7 @@
 
 ## Executive Playbook (all templates)
 
-Templates are embedded in the relevant chapters with blank versions and practical examples. Refer to each chapter for editable content.
+Templates are available in the `templates/` directory with blank versions and practical examples. Refer to each chapter for links.
 
 These templates are designed to be customized for your organization. Start with the ones referenced in your priority chapters.
 

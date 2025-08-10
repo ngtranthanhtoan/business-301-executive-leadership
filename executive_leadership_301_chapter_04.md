@@ -89,8 +89,8 @@ A scaleup starved its cash engine while funding 12 small bets. By moving to 55% 
 ---
 
 ## Connects to
-- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_6.md) (Decision briefs and RAPID roles for investment approvals)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (MBR as the forum for portfolio review and reallocations)
+- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_06.md) (Decision briefs and RAPID roles for investment approvals)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (MBR as the forum for portfolio review and reallocations)
 - [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (KPI trees and dashboards that track ROI and kill triggers)
 
 ---
@@ -103,4 +103,4 @@ A scaleup starved its cash engine while funding 12 small bets. By moving to 55% 
 - [ ] Option bets limited to safe portfolio %
 
 ## Next
-- [Chapter 5: Org Design & Talent Density](executive_leadership_301_chapter_5.md)
+- [Chapter 5: Org Design & Talent Density](executive_leadership_301_chapter_05.md)

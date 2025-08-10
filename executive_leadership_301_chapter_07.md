@@ -93,8 +93,8 @@ A company had board friction due to late bad news. Switching to “changes-and-a
 ---
 
 ## Connects to
-- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_2.md) (Strategy narrative content)
-- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_1.md) (Executive charter and time portfolio)
+- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_02.md) (Strategy narrative content)
+- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_01.md) (Executive charter and time portfolio)
 - [Chapter 11: Crisis Leadership](executive_leadership_301_chapter_11.md) (Crisis comms alignment)
 - [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Dashboards that support the story)
 
@@ -108,4 +108,4 @@ A company had board friction due to late bad news. Switching to “changes-and-a
 - [ ] Upward reports always lead with changes and asks
 
 ## Next
-- [Chapter 8: Governance & Stakeholders](executive_leadership_301_chapter_8.md)
+- [Chapter 8: Governance & Stakeholders](executive_leadership_301_chapter_08.md)

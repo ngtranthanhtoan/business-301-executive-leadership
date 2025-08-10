@@ -77,10 +77,10 @@ To build a strong OS, avoid these pitfalls:
 A growth-stage company mapped 27 meetings, killed 9, merged 6, and installed WBR/MBR with single metrics source. Decision throughput rose 30% and prep time dropped by half as decks were replaced with one-page briefs.
 
 ## Connects to
-- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_1.md) (Core rituals (WBR/MBR) and executive charter)
-- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_6.md) (Decision briefs and RAPID roles)
+- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_01.md) (Core rituals (WBR/MBR) and executive charter)
+- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_06.md) (Decision briefs and RAPID roles)
 - [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Single source of metrics and dashboard design)
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md) (Portfolio decisions and kill criteria in MBR)
+- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md)
 
 ## Chapter 3 “Ship It” Checklist
 - [ ] Written OS map with cadence, forums, and standards
@@ -90,122 +90,9 @@ A growth-stage company mapped 27 meetings, killed 9, merged 6, and installed WBR
 - [ ] Single source of metrics live
 
 ## Next
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md)
+- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_04.md)
 
 ## Embedded Templates
 
-# WBR Agenda
-
-## Blank Template
-
-### WBR Agenda - [Week of Date]
-
-### Objective
-[Brief objective]
-
-### Attendees
-[List]
-
-### Agenda ([Duration])
-1. **[Section] ([Time])** - [Owner]  
-   - [Details]
-
-[Add sections]
-
-### Prep
-- [Requirements]
-
-Standing Rule: [Rules]
-
-## Practical Example
-
-### WBR Agenda - Week of October 2, 2023
-
-### Objective
-Review metrics, unblock issues, align on weekly priorities. Data-driven; pre-read dashboard.
-
-### Attendees
-Exec staff, DRIs. Facilitator: COO. (60-90 mins)
-
-### Agenda
-1. **Metrics Review (20m)** - All  
-   - Dashboard walkthrough: Variances, trends.  
-   - Owners explain reds/yellows.
-
-2. **Blockers & Unblockers (20m)** - Round-robin  
-   - Top 3 issues per function.  
-   - Immediate decisions/assignments.
-
-3. **Deep Dive: Sales Pipeline (20m)** - VP Sales  
-   - Funnel health, win rates, forecasts.
-
-4. **Wins & Learnings (10m)** - All  
-   - Quick shares.
-
-5. **Actions & Closes (10m)** - COO  
-   - Commitments, due dates, owners.
-
-### Prep
-- Update dashboard by EOD Monday.
-- No slides; use shared doc for notes.
-
-Standing Rule: Same metrics every week; focus on exceptions.
-
-# MBR Agenda
-
-## Blank Template
-
-### MBR Agenda - [Month Year]
-
-### Objective
-[Brief objective]
-
-### Attendees
-[List roles]
-
-### Agenda ([Duration])
-1. **[Section] ([Time])** - [Owner]  
-   - [Details]
-
-[Add sections]
-
-### Prep
-- [Requirements]
-
-Next MBR: [Date]
-
-## Practical Example
-
-### MBR Agenda - October 2023
-
-### Objective
-Review portfolio health, adjust bets, manage risks. Memo-led; read in advance.
-
-### Attendees
-Exec team, functional leads. Facilitator: COO.
-
-### Agenda (2 hours)
-1. **Opening & Metrics Review (20m)** - COO  
-   - KPI dashboard variances; NSM trends.
-
-2. **Portfolio Updates (40m)** - VP Product/Sales  
-   - Bet progress; kill criteria checks.
-   - Reallocations needed?
-
-3. **Risk Register (20m)** - CRO  
-   - Top risks; mitigations; new entries.
-
-4. **Deep Dive: Q4 Planning (30m)** - CEO  
-   - Strategic adjustments; decisions.
-
-5. **Talent Spotlight (20m)** - CHRO  
-   - Key hires, succession gaps.
-
-6. **Closes & Actions (10m)** - All  
-   - Commitments, owners, due dates.
-
-### Prep
-- Submit updates by EOD Wednesday.
-- Read memo pack (5 pages max).
-
-Next MBR: November 15.
+- [WBR Agenda](./templates/wbr_agenda.md)
+- [MBR Agenda](./templates/mbr_agenda.md)

@@ -84,33 +84,7 @@ An org with “innovation” posters still punished risk. By adding monthly “f
 
 ## Embedded Template: Culture Doc
 
-# Culture Doc
-
-## Blank Template
-
-### Our Mission
-[Company mission statement]
-
-### Core Values
-1. **[Value 1]** - [Brief description]
-2. **[Value 2]** - [Brief description]
-[Add 4-6 values]
-
-### Behaviors & Anti-Patterns
-#### [Value 1]
-- **Do**: [Expected behaviors]
-- **Don't**: [Behaviors to avoid]
-
-[Repeat for each value]
-
-### Rituals
-- [Ritual name]: [Description, cadence]
-
-### How We Hire & Onboard
-- [Hiring practices]
-- [Onboarding process]
-
-This doc evolves—review [cadence].
+See [Culture Doc](./templates/culture_doc.md)
 
 ## Practical Example
 
@@ -158,9 +132,9 @@ At Acme Tech, we build innovative SaaS solutions that empower small businesses t
 This doc evolves with our company—review and update quarterly.
 
 ## Connects to
-- [Chapter 5: Org Design & Talent Density](executive_leadership_301_chapter_5.md) (Org design, spans/layers, and talent density)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (Rituals embedded in the operating system)
-- [Chapter 7: Executive Communication](executive_leadership_301_chapter_7.md) (Storytelling that reinforces values)
+- [Chapter 5: Org Design & Talent Density](executive_leadership_301_chapter_05.md) (Org design, spans/layers, and talent density)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (Rituals embedded in the operating system)
+- [Chapter 7: Executive Communication](executive_leadership_301_chapter_07.md) (Storytelling that reinforces values)
 - [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Culture health metrics (engagement, attrition, inclusion))
 
 ---

@@ -56,68 +56,16 @@ graph LR
 3. **Operating Cadence** — Your calendar becomes the company’s heartbeat.
 
 ### Executive Charter Template
-```
-Title: Exec Charter – <Your Name / Role> – <Quarter/Year>
 
-Mission (1-2 sentences):
-- Why this role exists for the enterprise, not just the org chart.
-
-Strategic Constraints (2-3):
-- Non-negotiables (e.g., “Profitable growth; no net-new infra unless it reduces unit cost in 2 quarters”).
-
-Priorities (3-5):
-1) <Priority> — Outcome by <Date> — Leading indicators:
-2) <Priority> — Outcome by <Date> — Leading indicators:
-3) ...
-
-Non-Goals (2-4):
-- Explicit de-prioritizations to protect focus.
-
-Bets & Kill Criteria:
-- Bet: <Name>. We stop if <metric/threshold/date>.
-
-Decision Rights (Top 5):
-- I decide: <areas>. I delegate: <areas> (to <who>) with review every <cadence>.
-
-Stakeholders & Forums:
-- Board/CEO/Peers: <forum + cadence>.
-- Customers/Partners: <forum + cadence>.
-
-Risks & Mitigations:
-- <Risk> → <Mitigation/Trigger>
-```
+See [Executive Charter Template](./templates/executive_charter.md)
 
 ### Decision Rights Map Template (RAPID)
-```
-Decision: <Name>
-Context: <Why this matters; one-way or two-way door?>
 
-R = Recommend:
-A = Agree (veto scope):
-P = Perform (DRI):
-I = Input (must be heard before decision):
-D = Decide:
-
-SLA & Escalation:
-- Draft by <date>; decision by <date>. Escalate to <who> if blocked >48h.
-```
+See [Decision Rights Map](./templates/decision_rights_map.md)
 
 ### Operating Cadence Template (90 days)
-```
-Weekly:
-- Mon: Exec staff (45m WBR + 30m blockers; docs read in advance)
-- Tue: 1:1s (top talent, skip-levels)
-- Wed: Strategy blocks (market/customer, product bets, partner calls)
-- Thu: Capital/Talent (budget reviews, recruiting panels)
-- Fri: Think/Write (memo day) + external comms
 
-Monthly:
-- MBR (bets, portfolio shifts, risk) — 2 hours, memo-led
-- Board/Investor update — 1 page, leading indicators + variances
-
-Quarterly:
-- Strategy review — Retest thesis; start/stop/continue list
-```
+See [Operating Cadence Template](./templates/operating_cadence.md)
 
 ---
 
@@ -149,9 +97,9 @@ A new VP inherited firefighting chaos. They ran a calendar audit (Four Rooms), d
 ---
 
 ## Connects to
-- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_6.md) (frameworks; escalation; audit)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (forums and standards)
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md) (kill criteria at approval)
+- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_06.md) (frameworks; escalation; audit)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (forums and standards)
+- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_04.md) (kill criteria at approval)
 - [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (DRIs and dashboards)
 
 ---
@@ -163,82 +111,4 @@ A new VP inherited firefighting chaos. They ran a calendar audit (Four Rooms), d
 - [ ] First WBR data pack ready (same metrics, every week)
 
 ## Next
-- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_2.md)
-
-## Embedded Template: Executive Charter
-
-# Executive Charter
-
-## Blank Template
-
-### Exec Charter – [Name, Role] – [Quarter/Year]
-
-### Mission
-[1-2 sentences: Why this role exists]
-
-### Strategic Constraints
-- [Non-negotiable 1]
-- [Non-negotiable 2-3]
-
-### Priorities
-1. [Priority] – [Outcome by Date] – Leading: [Indicators]
-[Add 3-5]
-
-### Non-Goals
-- [De-prioritization 1]
-[Add 2-4]
-
-### Bets & Kill Criteria
-- Bet: [Name]. Stop if [Criteria].
-
-### Decision Rights (Top 5)
-- I decide: [Areas].
-- I delegate: [Areas] to [Who] (review [Cadence]).
-
-### Stakeholders & Forums
-- [Group]: [Forum + Cadence].
-
-### Risks & Mitigations
-- Risk: [Desc] → Mitigation: [Plan]
-
-Signed: [Name], [Date]
-
-## Practical Example
-
-### Exec Charter – Jane Doe, CTO – Q4 2023
-
-### Mission
-Lead Acme Tech's technology vision, ensuring scalable, secure infrastructure that powers innovative products and drives competitive advantage.
-
-### Strategic Constraints
-- Maintain 99.99% uptime; no net-new tech debt without payoff plan.
-- Align all initiatives to core SaaS platform; profitable growth only.
-
-### Priorities
-1. Scale Infrastructure – Achieve 2x capacity by EOY – Leading: Error rates <1%, cost per user down 10%.
-2. Launch AI Suite – MVP in Q4 – Leading: Adoption >30% of users.
-3. Talent Pipeline – Hire 5 senior engineers – Leading: Retention >90%.
-4. Security Overhaul – Zero major incidents – Leading: Compliance audit pass.
-5. Innovation Lab – 2 experiments to production – Leading: One breakthrough feature.
-
-### Non-Goals
-- No consumer apps; focus B2B only.
-- Avoid custom client builds unless >$1M revenue.
-
-### Bets & Kill Criteria
-- Bet: Cloud Migration. Stop if costs exceed 20% budget or no perf gains in 3 months.
-
-### Decision Rights (Top 5)
-- I decide: Tech stack changes, hiring for eng roles.
-- I delegate: Daily ops to Eng Leads (review bi-weekly).
-
-### Stakeholders & Forums
-- Board/CEO: Quarterly tech update.
-- Customers: Annual advisory council.
-- Peers: Weekly exec staff.
-
-### Risks & Mitigations
-- Risk: Key talent loss → Mitigation: Succession plans, retention bonuses.
-- Risk: Cyber threat → Mitigation: Quarterly penetration tests.
-
-Signed: Jane Doe, [Date]
+- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_02.md)
