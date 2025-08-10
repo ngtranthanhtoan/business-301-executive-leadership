@@ -25,5 +25,8 @@ This repository contains the Markdown files for the book *Executive Leadership 3
 - [References](references.md)
 - [Back Matter](back-matter.md)
 
+## Case Studies
+- [Home Services Company: Applying the Book End-to-End](case-study-home-services-company.md)
+
 ## Templates
 Templates are available in the `templates/` directory and linked from the relevant chapters.
