@@ -26,21 +26,12 @@ flowchart LR
 ---
 
 ## Culture → Product → Culture Loop
-- Culture shapes **how products are built**.
-- Products shape **customer experience**.
-- Customer expectations feed back into **internal behaviors**.
-
-Example:  
-Amazon’s obsession with speed and low prices reinforced customer expectations, which in turn pushed internal teams to maintain operational excellence.
+Culture shapes how products are built, which in turn shapes customer experience, and customer expectations feed back into internal behaviors. For example, Amazon’s obsession with speed and low prices reinforced customer expectations, pushing internal teams to maintain operational excellence.
 
 ---
 
 ## Defining Culture Intentionally
-1. **Values** — 4–6 clear, specific, non-generic beliefs.
-2. **Behaviors** — Each value mapped to visible actions and anti-patterns.
-3. **Stories** — Real examples of the values in action.
-4. **Rituals** — Regular practices that reinforce values.
-5. **Symbols** — Visual cues, language, and traditions that signal what matters.
+Define culture with 4–6 clear, specific, non-generic values; map each value to visible actions and anti-patterns; include real examples of values in action through stories; establish regular practices that reinforce values via rituals; and use visual cues, language, and traditions as symbols that signal what matters.
 
 ---
 
@@ -62,6 +53,7 @@ Amazon’s obsession with speed and low prices reinforced customer expectations,
 ---
 
 ## Pitfalls to Avoid
+Watch for:
 - **Poster values** — Values written on walls but ignored in practice.
 - **Value sprawl** — Too many “values” dilute focus.
 - **Tolerating culture violations for high performers** — This erodes trust faster than anything.
@@ -91,10 +83,10 @@ An org with “innovation” posters still punished risk. By adding monthly “f
 ---
 
 ## Connects to
-- Chapter 5: Org design, spans/layers, and talent density
-- Chapter 3: Rituals embedded in the operating system
-- Chapter 7: Storytelling that reinforces values
-- Chapter 12: Culture health metrics (engagement, attrition, inclusion)
+- [Chapter 5: Org Design & Talent Density](executive_leadership_301_chapter_5.md) (Org design, spans/layers, and talent density)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (Rituals embedded in the operating system)
+- [Chapter 7: Executive Communication](executive_leadership_301_chapter_7.md) (Storytelling that reinforces values)
+- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Culture health metrics (engagement, attrition, inclusion))
 
 ---
 
@@ -104,3 +96,6 @@ An org with “innovation” posters still punished risk. By adding monthly “f
 - [ ] Stories collected and in circulation
 - [ ] Leaders trained in culture modeling
 - [ ] Pulse survey mechanism active
+
+## Next
+- [Chapter 10: Product & Platform Scaling](executive_leadership_301_chapter_10.md)

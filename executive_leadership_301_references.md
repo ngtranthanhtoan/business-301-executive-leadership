@@ -140,3 +140,6 @@ At this level, the bottleneck often becomes you — your time, energy, and judgm
 - **"The Hard Thing About Hard Things"** — Ben Horowitz  
 - Harvard Business Review’s *10 Must Reads on Leadership*  
 **Directions for Deep Dive:** Study case studies of high-growth companies. Compare leadership patterns across industries.
+
+## Next
+- [Back Matter](executive_leadership_301_back_matter.md)

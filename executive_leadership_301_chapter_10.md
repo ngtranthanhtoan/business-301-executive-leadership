@@ -7,17 +7,12 @@ Scaling is about **adding capacity and capability faster than complexity increas
 ---
 
 ## The Three Scaling Dimensions
-1. **Product scaling** — Expanding product reach, features, and markets.
-2. **Platform scaling** — Increasing technical capacity, reliability, and interoperability.
-3. **Organizational scaling** — Growing teams, processes, and decision-making without slowing down.
+Scaling involves three dimensions: product scaling to expand reach, features, and markets; platform scaling to increase technical capacity, reliability, and interoperability; and organizational scaling to grow teams, processes, and decision-making without slowing down.
 
 ---
 
 ## Product Scaling Principles
-- **Win in one beachhead before expanding** — Nail a niche before chasing adjacencies.
-- **Add features with discipline** — Tie every new capability to revenue, retention, or moat.
-- **Balance new vs. core** — Avoid starving the proven product while chasing shiny new bets.
-- **Internationalization readiness** — Build for multiple languages, currencies, and regulations early if global is in your roadmap.
+Win in one beachhead before expanding by nailing a niche first; add features with discipline, tying every new capability to revenue, retention, or moat; balance new vs. core to avoid starving proven products; and build for internationalization early if global is in your roadmap, including multiple languages, currencies, and regulations.
 
 ---
 
@@ -56,6 +51,7 @@ flowchart LR
 ---
 
 ## Pitfalls to Avoid
+Avoid:
 - **Scaling chaos** — Growing headcount faster than clarity.
 - **Over-optimizing too early** — Adding heavy process before product-market fit is solid.
 - **Ignoring platform limits** — Latency, cost, and compliance can become silent killers.
@@ -85,10 +81,10 @@ Feature teams were blocked by incidents. Introducing SLOs and an error budget po
 ---
 
 ## Connects to
-- Chapter 4: Capital allocation for scaling bets
-- Chapter 3: OS rituals for cross-team coordination
-- Chapter 12: Metrics for platform reliability and cost
-- Chapter 6: Decision rights for Build/Buy/Partner choices
+- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md) (Capital allocation for scaling bets)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (OS rituals for cross-team coordination)
+- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Metrics for platform reliability and cost)
+- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_6.md) (Decision rights for Build/Buy/Partner choices)
 
 ---
 
@@ -98,3 +94,6 @@ Feature teams were blocked by incidents. Introducing SLOs and an error budget po
 - [ ] Build/Buy/Partner decisions made
 - [ ] Metrics and owners assigned
 - [ ] Platform observability in place
+
+## Next
+- [Chapter 11: Crisis Leadership](executive_leadership_301_chapter_11.md)

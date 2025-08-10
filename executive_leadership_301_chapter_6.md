@@ -6,19 +6,12 @@ As an executive, you’re less valuable as a **decision maker** and more valuabl
 ---
 
 ## Three Truths About Decisions at Scale
-1. **Unclear ownership** is the #1 cause of slow or bad decisions.  
-2. **Speed matters** — but only if you protect quality.  
-3. **Process beats heroics** — consistent frameworks outperform ad-hoc “saves.”
+There are three key truths about decisions at scale: unclear ownership is the #1 cause of slow or bad decisions; speed matters, but only if you protect quality; and process beats heroics, as consistent frameworks outperform ad-hoc “saves.”
 
 ---
 
 ## The Two Door Model (Jeff Bezos)
-- **Type 1 (One-Way Door)** — Hard to reverse, high stakes, needs deliberate process.  
-  *Example*: Entering a new market, acquiring a company.
-- **Type 2 (Two-Way Door)** — Reversible, low stakes, bias for speed.  
-  *Example*: Changing a marketing tagline, adjusting a UI color.
-
-**Rule**: Push Type 2 decisions as far down the org as possible.
+Decisions fall into two types: Type 1 (One-Way Door), which are hard to reverse and high stakes, needing deliberate process (e.g., entering a new market or acquiring a company); and Type 2 (Two-Way Door), which are reversible and low stakes, biasing for speed (e.g., changing a marketing tagline or adjusting a UI color). Push Type 2 decisions as far down the org as possible.
 
 ---
 
@@ -81,6 +74,7 @@ Quarterly, review:
 ---
 
 ## Pitfalls to Avoid
+Avoid these decision-making pitfalls:
 - **Consensus paralysis** — Not every decision needs everyone’s blessing.
 - **Shadow decisions** — Outcomes decided informally without accountability.
 - **Over-escalation** — Leaders pulled into Type 2 decisions that could be delegated.
@@ -110,10 +104,10 @@ A product org suffered 3-week delays on simple choices. By classifying decisions
 ---
 
 ## Connects to
-- Chapter 1: Decision Rights That Scale You (installing rights early)
-- Chapter 3: The Operating System (forums and standards for decision flow)
-- Chapter 4: Capital Allocation (kill criteria set at approval time)
-- Chapter 12: Measuring What Matters (decision metrics and audit)
+- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_1.md) (Decision Rights That Scale You (installing rights early))
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (The Operating System (forums and standards for decision flow))
+- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md) (Capital Allocation (kill criteria set at approval time))
+- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Measuring What Matters (decision metrics and audit))
 
 ---
 
@@ -123,3 +117,6 @@ A product org suffered 3-week delays on simple choices. By classifying decisions
 - [ ] Decision brief template in use
 - [ ] Escalation ladder agreed
 - [ ] Quarterly decision audit scheduled
+
+## Next
+- [Chapter 7: Executive Communication](executive_leadership_301_chapter_7.md)

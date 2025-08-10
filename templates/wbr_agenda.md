@@ -1,17 +1,59 @@
-# Weekly Business Review (WBR) — Agenda & Data Pack
+# WBR Agenda
 
-Duration: 60-90 minutes
-Cadence: Weekly
-Owner (DRI): <name>
+## Blank Template
 
-Agenda
-1) Metrics snapshot (standard cuts) — 10 min
-2) Variances vs target with owner notes — 20 min
-3) Blockers and decisions needed — 20 min
-4) Commitments & next steps (DRIs, due dates) — 10 min
+### WBR Agenda - [Week of Date]
 
-Data Pack (same every week)
-- NSM + top KPIs
-- Funnel/retention or ops metrics
-- Quality/reliability (SLOs/error budget)
-- Financial highlights as needed
+### Objective
+[Brief objective]
+
+### Attendees
+[List]
+
+### Agenda ([Duration])
+1. **[Section] ([Time])** - [Owner]  
+   - [Details]
+
+[Add sections]
+
+### Prep
+- [Requirements]
+
+Standing Rule: [Rules]
+
+## Practical Example
+
+### WBR Agenda - Week of October 2, 2023
+
+### Objective
+Review metrics, unblock issues, align on weekly priorities. Data-driven; pre-read dashboard.
+
+### Attendees
+Exec staff, DRIs. Facilitator: COO. (60-90 mins)
+
+### Agenda
+1. **Metrics Review (20m)** - All  
+   - Dashboard walkthrough: Variances, trends.  
+   - Owners explain reds/yellows.
+
+2. **Blockers & Unblockers (20m)** - Round-robin  
+   - Top 3 issues per function.  
+   - Immediate decisions/assignments.
+
+3. **Deep Dive: Sales Pipeline (20m)** - VP Sales  
+   - Funnel health, win rates, forecasts.
+
+4. **Wins & Learnings (10m)** - All  
+   - Quick shares.
+
+5. **Actions & Closes (10m)** - COO  
+   - Commitments, due dates, owners.
+
+### Prep
+- Update dashboard by EOD Monday.
+- No slides; use shared doc for notes.
+
+Standing Rule: Same metrics every week; focus on exceptions.
+
+## Referenced In
+Chapter 3: The Operating System

@@ -1,5 +1,23 @@
 # Executive Leadership 301 — Front Matter
 
+## Table of Contents
+- [Front Matter](executive_leadership_301_front_matter.md)
+- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_1.md)
+- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_2.md)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md)
+- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md)
+- [Chapter 5: Org Design & Talent Density](executive_leadership_301_chapter_5.md)
+- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_6.md)
+- [Chapter 7: Executive Communication](executive_leadership_301_chapter_7.md)
+- [Chapter 8: Governance & Stakeholders](executive_leadership_301_chapter_8.md)
+- [Chapter 9: Culture by Design](executive_leadership_301_chapter_9.md)
+- [Chapter 10: Product & Platform Scaling](executive_leadership_301_chapter_10.md)
+- [Chapter 11: Crisis Leadership](executive_leadership_301_chapter_11.md)
+- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md)
+- [Glossary](executive_leadership_301_glossary.md)
+- [References](executive_leadership_301_references.md)
+- [Back Matter](executive_leadership_301_back_matter.md)
+
 ## Who this book is for
 - Executives and executive-trajectory leaders who own outcomes across multiple teams or functions.
 - Founders, GMs, Chiefs of Staff, VPs, Directors preparing to operate at enterprise scale.
@@ -33,5 +51,10 @@
 
 ## Visual index (Mermaid snippets available inside chapters)
 - Four Rooms; Executive OS layers; Portfolio bet sizing; Decision ladder; KPI tree.
+
+See the `templates/` directory for editable versions of all artifacts mentioned in this book.
+
+## Next
+- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_1.md)
 
 

@@ -7,20 +7,10 @@ Capital allocation is how you shape the future **faster than competitors** while
 ---
 
 ## Four Types of Capital You Allocate
-1. **Financial Capital** — Budgets, investments, cost controls.
-2. **Human Capital** — Headcount, top talent assignments, succession.
-3. **Time Capital** — What leaders and teams *spend cycles on*.
-4. **Reputation Capital** — Brand trust, political goodwill, partner credibility.
-
-Each has **opportunity cost** — spending in one place means you can’t spend in another.
-
----
+As an executive, you allocate four types of capital: financial capital, including budgets, investments, and cost controls; human capital, encompassing headcount, top talent assignments, and succession; time capital, determining what leaders and teams spend cycles on; and reputation capital, involving brand trust, political goodwill, and partner credibility. Each type carries opportunity cost — spending in one area means you can’t spend in another.
 
 ## The Portfolio Mindset
-Think like an investor:
-- You have a **finite fund** (capital, talent, attention).
-- Each investment should have an **expected return**.
-- Risk is **managed at the portfolio level** — not every bet will pay off.
+Adopt an investor's mindset: you have a finite fund of capital, talent, and attention; each investment should yield an expected return; and risk is managed at the portfolio level, acknowledging that not every bet will pay off.
 
 ---
 
@@ -69,7 +59,8 @@ Attach kill criteria to the **decision brief** and review at the **MBR**.
 ---
 
 ## Pitfalls to Avoid
-- **Pet projects** — Investments survive because of politics, not ROI.
+In capital allocation, watch out for:
+- **Pet projects** — Investments that survive because of politics, not ROI.
 - **Spread too thin** — A dozen small bets instead of 3–5 bold ones.
 - **Late kill** — Waiting too long to stop a failing project.
 - **Starving the core** — Over-investing in the shiny new while the cash engine weakens.
@@ -98,9 +89,9 @@ A scaleup starved its cash engine while funding 12 small bets. By moving to 55% 
 ---
 
 ## Connects to
-- Chapter 6: Decision briefs and RAPID roles for investment approvals
-- Chapter 3: MBR as the forum for portfolio review and reallocations
-- Chapter 12: KPI trees and dashboards that track ROI and kill triggers
+- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_6.md) (Decision briefs and RAPID roles for investment approvals)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (MBR as the forum for portfolio review and reallocations)
+- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (KPI trees and dashboards that track ROI and kill triggers)
 
 ---
 
@@ -110,3 +101,6 @@ A scaleup starved its cash engine while funding 12 small bets. By moving to 55% 
 - [ ] Capital allocation cadence scheduled
 - [ ] Core bets sufficiently funded
 - [ ] Option bets limited to safe portfolio %
+
+## Next
+- [Chapter 5: Org Design & Talent Density](executive_leadership_301_chapter_5.md)

@@ -13,4 +13,7 @@
 - SLO/Error Budget: Reliability target and allowable failure budget used in scaling/operations.
 - Portfolio Mix: Allocation across Core, Growth, and Option bets.
 
+## Next
+- [References](executive_leadership_301_references.md)
+
 

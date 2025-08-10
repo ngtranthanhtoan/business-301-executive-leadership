@@ -15,18 +15,12 @@ You can’t always control severity, but you can radically change the outcome th
 ---
 
 ## The Four Crisis Phases
-1. **Detection** — Spot the signal early.
-2. **Stabilization** — Stop the bleeding.
-3. **Resolution** — Fix the root cause.
-4. **Recovery** — Rebuild trust, learn, and strengthen.
+Crises unfold in four phases: detection to spot the signal early; stabilization to stop the bleeding; resolution to fix the root cause; and recovery to rebuild trust, learn, and strengthen.
 
 ---
 
 ## The Command Tempo Model
-- **High tempo** — Rapid cycles of assess → decide → act.
-- **Clear decision-maker** — No ambiguity about who’s in charge.
-- **Single source of truth** — One comms channel for updates.
-- **Time-boxed actions** — Move in minutes/hours, not days.
+Maintain a high tempo with rapid cycles of assess, decide, and act; ensure a clear decision-maker with no ambiguity about who’s in charge; use a single source of truth for updates; and time-box actions to move in minutes or hours, not days.
 
 ### ICS Roles — Visual
 ```mermaid
@@ -74,6 +68,7 @@ Run **pre-crisis drills**:
 ---
 
 ## Pitfalls to Avoid
+Avoid:
 - **Decision drift** — Too many voices, no clear owner.
 - **Comms blackout** — Creates panic internally and externally.
 - **Heroics over systems** — Burning out a few stars instead of using process.
@@ -103,10 +98,10 @@ A social backlash grew over a product change. Within 2 hours, the team acknowled
 ---
 
 ## Connects to
-- Chapter 7: Crisis communication principles
-- Chapter 8: Governance and board relations in crisis
-- Chapter 3: Situation Room forum design
-- Chapter 12: Reliability and risk metrics
+- [Chapter 7: Executive Communication](executive_leadership_301_chapter_7.md) (Crisis communication principles)
+- [Chapter 8: Governance & Stakeholders](executive_leadership_301_chapter_8.md) (Governance and board relations in crisis)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (Situation Room forum design)
+- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Reliability and risk metrics)
 
 ---
 
@@ -116,3 +111,6 @@ A social backlash grew over a product change. Within 2 hours, the team acknowled
 - [ ] Single source of truth for crisis updates
 - [ ] Pre-approved comms templates
 - [ ] Recovery and learning loop in place
+
+## Next
+- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md)

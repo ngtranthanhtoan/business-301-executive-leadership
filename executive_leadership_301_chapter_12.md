@@ -8,10 +8,7 @@ The wrong metrics = the wrong behaviors.
 ---
 
 ## The Three Levels of Metrics
-1. **North Star Metric (NSM)** — The single measure that best captures long-term value creation.  
-   *Example*: Spotify’s “Time spent listening.”  
-2. **KPI Trees** — Break down NSM into supporting metrics for each department.  
-3. **Operational Metrics** — The daily/weekly indicators that drive action at the front lines.
+Metrics operate at three levels: the North Star Metric (NSM), a single measure capturing long-term value creation (e.g., Spotify’s “Time spent listening”); KPI Trees that break down the NSM into supporting metrics for each department; and operational metrics, the daily/weekly indicators driving front-line action.
 
 ### KPI Tree — Visual
 ```mermaid
@@ -27,10 +24,7 @@ flowchart TB
 ---
 
 ## Characteristics of Good Metrics
-- **Aligned** — Tied directly to strategy.
-- **Actionable** — A clear owner can move it.
-- **Comparable** — Trackable over time or against a benchmark.
-- **Balanced** — Avoids creating perverse incentives by pairing with counter-metrics.
+Good metrics are aligned to strategy, actionable with a clear owner who can move them, comparable over time or against benchmarks, and balanced to avoid perverse incentives by pairing with counter-metrics.
 
 ---
 
@@ -79,6 +73,7 @@ When unit economics are strong, growth scales sustainably. When weak, growth sca
 ---
 
 ## Pitfalls to Avoid
+Steer clear of:
 - **Metric creep** — Tracking too many dilutes focus.
 - **Gaming the numbers** — When incentives drive metric manipulation.
 - **Blind spots** — Ignoring metrics for risk, quality, or employee health.
@@ -108,9 +103,9 @@ A team tracked signups without activation. By adopting a KPI tree tied to NSM (r
 ---
 
 ## Connects to
-- Chapter 3: Single source of metrics and OS forums (WBR/MBR)
-- Chapter 4: Portfolio ROI tracking and kill criteria triggers
-- Chapter 6: Decision audits and RAPID DRIs tied to metrics
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (Single source of metrics and OS forums (WBR/MBR))
+- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md) (Portfolio ROI tracking and kill criteria triggers)
+- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_6.md) (Decision audits and RAPID DRIs tied to metrics)
 
 ---
 
@@ -120,3 +115,6 @@ A team tracked signups without activation. By adopting a KPI tree tied to NSM (r
 - [ ] Counter-metrics in place to prevent gaming
 - [ ] Dashboards live with owners assigned (DRIs listed)
 - [ ] Metric review cadence locked
+
+## Next
+- [Glossary](executive_leadership_301_glossary.md)

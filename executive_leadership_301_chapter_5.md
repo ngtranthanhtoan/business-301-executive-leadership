@@ -11,23 +11,12 @@ Your job:
 ---
 
 ## First Principle: Structure Follows Strategy
-- Don’t design for “org chart beauty” — design for **the work that must be done**.
-- Ask:  
-  1. What are the *critical capabilities* we must excel at?  
-  2. What’s the smallest structure that delivers them?  
-  3. How will decisions flow between these capabilities?
-
----
+Don’t design for “org chart beauty” — design for the work that must be done. Ask: What are the critical capabilities we must excel at? What’s the smallest structure that delivers them? How will decisions flow between these capabilities?
 
 ## Spans & Layers — The Goldilocks Zone
-- **Span of control**: The number of direct reports a leader can effectively manage.  
-  - Too wide → no coaching, shallow management.  
-  - Too narrow → bureaucracy and slow decisions.
-- **Layers**: Keep them as few as possible to avoid communication decay.
+Span of control refers to the number of direct reports a leader can effectively manage — too wide leads to no coaching and shallow management, while too narrow creates bureaucracy and slow decisions. Keep layers as few as possible to avoid communication decay.
 
-**Rule of thumb**:  
-- Early stage: wide spans (7–10 DRs), few layers.  
-- Growth stage: moderate spans (5–7 DRs), added layers only when complexity demands.
+**Rule of thumb**: In early stages, use wide spans (7–10 DRs) with few layers; in growth stages, moderate spans (5–7 DRs), adding layers only when complexity demands.
 
 ---
 
@@ -68,6 +57,7 @@ A tool for plotting performance vs. potential:
 ---
 
 ## Pitfalls to Avoid
+Avoid these common org design mistakes:
 - **Title inflation** — Creates fragile orgs when “leaders” aren’t actually leading.
 - **Reshuffle addiction** — Changing the org chart instead of fixing execution.
 - **Over-hiring leaders** — Too many chiefs, not enough operators.
@@ -97,10 +87,10 @@ Two comparable teams had very different outcomes. The smaller, high-density team
 ---
 
 ## Connects to
-- Chapter 2: Structure follows strategy
-- Chapter 3: Forums and decision flow across org design
-- Chapter 9: Culture norms to reinforce density
-- Chapter 8: Governance for succession and role clarity
+- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_2.md) (Structure follows strategy)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (Forums and decision flow across org design)
+- [Chapter 9: Culture by Design](executive_leadership_301_chapter_9.md) (Culture norms to reinforce density)
+- [Chapter 8: Governance & Stakeholders](executive_leadership_301_chapter_8.md) (Governance for succession and role clarity)
 
 ---
 
@@ -110,3 +100,6 @@ Two comparable teams had very different outcomes. The smaller, high-density team
 - [ ] 9-box completed for top critical roles
 - [ ] Succession plan documented
 - [ ] Hiring/firing actions agreed and in motion
+
+## Next
+- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_6.md)

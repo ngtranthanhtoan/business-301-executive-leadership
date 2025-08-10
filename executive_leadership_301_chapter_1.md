@@ -1,34 +1,32 @@
 # Executive Leadership 301 — Chapter 1: The Executive Shift
 
 ## What Changes at 301
-At this level, your role shifts from being the person who solves hard problems to being the person who **shapes the conditions** in which the entire enterprise solves problems.  
-Your core responsibilities become:
-- **Allocate attention** — the rarest and most valuable resource.
-- **Set context** so decisions can be made without you in the room.
-- **Select people and design systems** that endure beyond individual projects.
-- **Steward capital** — not just money, but also time, brand, and technical leverage.
+At this level, your role shifts from being the person who solves hard problems to being the person who shapes the conditions in which the entire enterprise solves problems. Your core responsibilities become allocating attention — the rarest and most valuable resource; setting context so decisions can be made without you in the room; selecting people and designing systems that endure beyond individual projects; and stewarding capital — not just money, but also time, brand, and technical leverage.
 
 ## Five Executive Levers
-1. **People** — Who gets the hardest problems; who is coached, promoted, or replaced.
-2. **Strategy** — The few decisive bets, and what you explicitly will not do.
-3. **Narrative** — A coherent story that aligns thousands of micro‑decisions.
-4. **Systems** — Cadence, metrics, and clear decision rights.
-5. **Capital** — Budgets, headcount, time, technical debt, and reputation.
+As an executive, you wield five key levers to drive the organization forward:
+1. **People** — Determining who gets the hardest problems and who is coached, promoted, or replaced.
+2. **Strategy** — Making the few decisive bets and explicitly deciding what you will not do.
+3. **Narrative** — Crafting a coherent story that aligns thousands of micro-decisions.
+4. **Systems** — Establishing cadence, metrics, and clear decision rights.
+5. **Capital** — Managing budgets, headcount, time, technical debt, and reputation.
 
 ## The Time Portfolio (Default)
-- **60% Enterprise‑shaping**: strategy, market/customer insight, capital allocation, top‑talent moves.
-- **30% Operating rhythm**: WBR/MBR, unblockers, cross‑functional coordination.
-- **10% Maker/learning**: deep dives, strategic thinking, writing to clarify thought.
+To manage your time effectively, consider this default allocation:
+- **60% Enterprise-shaping**: Focus on strategy, market/customer insight, capital allocation, and top-talent moves.
+- **30% Operating rhythm**: Handle WBR/MBR, unblockers, and cross-functional coordination.
+- **10% Maker/learning**: Engage in deep dives, strategic thinking, and writing to clarify thought.
 
-*Tip*: In early‑stage or turnaround situations, you may invert the 60/30 split—just make the choice deliberately.
+*Tip*: In early-stage or turnaround situations, you may need to invert the 60/30 split—just make the choice deliberately.
 
 ## The Four Rooms (Mental Model)
+To maintain balance, think of your role through the lens of four mental "rooms":
 - **Map Room** — Strategy and narrative (future focus).
-- **Machine Room** — Operating system, numbers, performance (present focus).
-- **Situation Room** — Acute response: incidents, PR, outages, crises.
-- **Mirror Room** — Reflection: self‑inspection, ethics, energy management.
+- **Machine Room** — Operating system, numbers, and performance (present focus).
+- **Situation Room** — Acute response to incidents, PR, outages, and crises.
+- **Mirror Room** — Reflection on self-inspection, ethics, and energy management.
 
-Healthy executives **schedule** time in each room weekly.
+Healthy executives schedule time in each room weekly.
 
 ### Four Rooms — Visual
 ```mermaid
@@ -124,6 +122,7 @@ Quarterly:
 ---
 
 ## Pitfalls to Avoid
+When transitioning to executive leadership, watch out for these common pitfalls:
 - **Activity ≠ leverage** — A full calendar is often a symptom of weak systems.
 - **New-bet bias** — Old bets compound; avoid starving what’s already working.
 - **Silent drift** — Without a repeated story, teams invent their own.
@@ -150,10 +149,10 @@ A new VP inherited firefighting chaos. They ran a calendar audit (Four Rooms), d
 ---
 
 ## Connects to
-- Chapter 6: Decision Architecture (frameworks; escalation; audit)
-- Chapter 3: The Operating System (forums and standards)
-- Chapter 4: Capital Allocation (kill criteria at approval)
-- Chapter 12: Measuring What Matters (DRIs and dashboards)
+- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_6.md) (frameworks; escalation; audit)
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (forums and standards)
+- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md) (kill criteria at approval)
+- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (DRIs and dashboards)
 
 ---
 
@@ -162,3 +161,6 @@ A new VP inherited firefighting chaos. They ran a calendar audit (Four Rooms), d
 - [ ] Decision Rights Map posted and agreed
 - [ ] Cadence invites sent; WBR/MBR agendas attached
 - [ ] First WBR data pack ready (same metrics, every week)
+
+## Next
+- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_2.md)

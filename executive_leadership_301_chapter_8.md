@@ -9,18 +9,12 @@ At the executive level, you’re operating in a **network of obligations and inf
 ---
 
 ## The Four Pillars of Executive Governance
-1. **Clarity of authority** — Who can decide what, at what risk threshold.
-2. **Transparency** — The right people get the right information at the right time.
-3. **Accountability** — Commitments are tracked, reviewed, and enforced.
-4. **Adaptability** — Governance adapts as the company grows or shifts.
+Executive governance rests on four pillars: clarity of authority, defining who can decide what at what risk threshold; transparency, ensuring the right people get the right information at the right time; accountability, where commitments are tracked, reviewed, and enforced; and adaptability, allowing governance to evolve as the company grows or shifts.
 
 ---
 
 ## Internal Governance: The “Minimum Viable Bureaucracy”
-- Keep **policies as guardrails**, not handcuffs.
-- Use **standing forums** (WBR/MBR/Strategy Review) as your primary governance tools.
-- Maintain **decision logs** so reversals are informed, not reactive.
-- Use **exception handling** instead of rewriting the rules every time.
+For internal governance, keep policies as guardrails, not handcuffs; use standing forums like WBR/MBR/Strategy Review as primary tools; maintain decision logs for informed reversals; and use exception handling instead of rewriting rules every time.
 
 ---
 
@@ -62,6 +56,7 @@ Keep it lean — governance bloats when too many are “consulted.”
 ---
 
 ## Pitfalls to Avoid
+Avoid:
 - **Governance theater** — Meetings and decks that look like oversight but add no value.
 - **Over-governance** — Slows execution and drives workarounds.
 - **Under-engagement with stakeholders** — Creates political surprises.
@@ -91,10 +86,10 @@ A CEO struggled with board pushback. By pre-wiring decisions with 1:1s and a cri
 ---
 
 ## Connects to
-- Chapter 3: OS forums as primary governance
-- Chapter 4: Capital decisions and board oversight
-- Chapter 7: Upward/outward communication discipline
-- Chapter 11: Crisis governance and roles
+- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (OS forums as primary governance)
+- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md) (Capital decisions and board oversight)
+- [Chapter 7: Executive Communication](executive_leadership_301_chapter_7.md) (Upward/outward communication discipline)
+- [Chapter 11: Crisis Leadership](executive_leadership_301_chapter_11.md) (Crisis governance and roles)
 
 ---
 
@@ -104,3 +99,6 @@ A CEO struggled with board pushback. By pre-wiring decisions with 1:1s and a cri
 - [ ] Board packet template and cadence set
 - [ ] Compliance risks tracked with owners
 - [ ] Governance reviewed quarterly for speed + effectiveness
+
+## Next
+- [Chapter 9: Culture by Design](executive_leadership_301_chapter_9.md)

@@ -7,17 +7,12 @@ Every word you say (or don’t say) has multiplied effects across teams, investo
 ---
 
 ## The Three Directions of Executive Communication
-1. **Upward** — To the board, investors, CEO: clarity, no surprises.
-2. **Downward** — To teams: alignment, context, and inspiration.
-3. **Outward** — To customers, partners, media: trust and authority.
+Executive communication flows in three directions: upward to the board, investors, and CEO for clarity and no surprises; downward to teams for alignment, context, and inspiration; and outward to customers, partners, and media for trust and authority.
 
 ---
 
 ## The Core Executive Communication Rules
-- **Be the signal, not the noise** — Remove fluff, highlight what matters.
-- **Context first, detail second** — Execs and managers must know the *why* before the *what*.
-- **Write to think** — Clear writing leads to clear speaking.
-- **No surprises** — Deliver bad news early, with options ready.
+Follow these core rules: be the signal, not the noise by removing fluff and highlighting what matters; provide context first, detail second so execs and managers know the why before the what; write to think, as clear writing leads to clear speaking; and ensure no surprises by delivering bad news early with options ready.
 
 ---
 
@@ -68,6 +63,7 @@ A simple way to structure any communication:
 ---
 
 ## Pitfalls to Avoid
+Steer clear of:
 - **Overcommunicating everything** — Causes fatigue and dilution of key points.
 - **Undercommunicating change** — Leaves room for rumors and fear.
 - **Inconsistent tone** — Erodes trust between what’s said internally and externally.
@@ -97,10 +93,10 @@ A company had board friction due to late bad news. Switching to “changes-and-a
 ---
 
 ## Connects to
-- Chapter 2: Strategy narrative content
-- Chapter 1: Executive charter and time portfolio
-- Chapter 11: Crisis comms alignment
-- Chapter 12: Dashboards that support the story
+- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_2.md) (Strategy narrative content)
+- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_1.md) (Executive charter and time portfolio)
+- [Chapter 11: Crisis Leadership](executive_leadership_301_chapter_11.md) (Crisis comms alignment)
+- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Dashboards that support the story)
 
 ---
 
@@ -110,3 +106,6 @@ A company had board friction due to late bad news. Switching to “changes-and-a
 - [ ] One-pager template in use for decisions
 - [ ] Pre-written external messaging for likely crises
 - [ ] Upward reports always lead with changes and asks
+
+## Next
+- [Chapter 8: Governance & Stakeholders](executive_leadership_301_chapter_8.md)
