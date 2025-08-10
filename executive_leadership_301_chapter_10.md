@@ -42,6 +42,17 @@ Scaling is about **adding capacity and capability faster than complexity increas
 - **Buy** when speed matters more than uniqueness.
 - **Partner** when scale or network effects are better achieved with allies.
 
+### Build/Buy/Partner — Visual
+```mermaid
+flowchart LR
+  S[Scaling Need] --> B1[Build]
+  S --> B2[Buy]
+  S --> B3[Partner]
+  B1 --> C1[Moat/Core]
+  B2 --> C2[Speed/Commodity]
+  B3 --> C3[Scale/Network]
+```
+
 ---
 
 ## Pitfalls to Avoid
@@ -58,6 +69,26 @@ Scaling is about **adding capacity and capability faster than complexity increas
 3. **Prioritization (20m)** — Rank scaling initiatives by ROI and urgency.
 4. **Build/Buy/Partner (20m)** — Decide the right approach for top 3 initiatives.
 5. **Metrics & owners (10m)** — Assign success metrics and DRIs.
+
+---
+
+## Stage & Context Adaptations
+- Startup/Turnaround: Don’t over-process; fix the constraint; focus on reliability basics.
+- Scaleup: Introduce SLOs/error budgets; platform modularity; FinOps discipline.
+- Enterprise: Platform standardization; shared services; governance for changes.
+- Regulated: Compliance built-in; data residency; audit trails.
+- Remote/Distributed: Async demos; incident write-ups; platform dashboards.
+
+## Mini‑Case: Reliability as Growth Unlock
+Feature teams were blocked by incidents. Introducing SLOs and an error budget policy cut paging by 60% and doubled feature throughput within two quarters.
+
+---
+
+## Connects to
+- Chapter 4: Capital allocation for scaling bets
+- Chapter 3: OS rituals for cross-team coordination
+- Chapter 12: Metrics for platform reliability and cost
+- Chapter 6: Decision rights for Build/Buy/Partner choices
 
 ---
 

@@ -15,6 +15,14 @@ Culture = Values (what we believe)
 ```
 If any element is missing, culture drifts toward convenience, not excellence.
 
+### Culture → Product → Culture — Visual
+```mermaid
+flowchart LR
+  C[Culture] --> P[Product & Experience]
+  P --> CU[Customer Expectations]
+  CU --> C
+```
+
 ---
 
 ## Culture → Product → Culture Loop
@@ -67,6 +75,26 @@ Amazon’s obsession with speed and low prices reinforced customer expectations,
 3. **Ritual audit (20m)** — List existing rituals; prune or add to reinforce values.
 4. **Story collection (20m)** — Gather 3–5 true stories that illustrate each value.
 5. **Symbol check (10m)** — Ensure visual cues and language match desired culture.
+
+---
+
+## Stage & Context Adaptations
+- Startup/Turnaround: Few values; high clarity on anti-patterns; leadership modeling daily.
+- Scaleup: Codify rituals; embed in hiring and onboarding; prune misaligned practices.
+- Enterprise: Refresh values with strategy; avoid ossification; guard against politics.
+- Regulated: Emphasize integrity, transparency; align incentives with compliance.
+- Remote/Distributed: Written norms; explicit rituals; async recognition.
+
+## Mini‑Case: Rituals Over Posters
+An org with “innovation” posters still punished risk. By adding monthly “failed experiment” demos and rewarding learnings, they unlocked bolder product bets and higher engagement.
+
+---
+
+## Connects to
+- Chapter 5: Org design, spans/layers, and talent density
+- Chapter 3: Rituals embedded in the operating system
+- Chapter 7: Storytelling that reinforces values
+- Chapter 12: Culture health metrics (engagement, attrition, inclusion)
 
 ---
 

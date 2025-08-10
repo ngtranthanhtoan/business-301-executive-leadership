@@ -30,9 +30,18 @@ Your core responsibilities become:
 
 Healthy executives **schedule** time in each room weekly.
 
+### Four Rooms — Visual
+```mermaid
+graph LR
+  A[Map Room<br/>Strategy & Narrative] --> E[Executive Calendar]
+  B[Machine Room<br/>Operating System & Metrics] --> E
+  C[Situation Room<br/>Incidents & Crises] --> E
+  D[Mirror Room<br/>Reflection & Energy] --> E
+```
+
 ## Decision Rights That Scale You
 - Define **one‑way vs. two‑way doors** and who decides each.
-- Use a **RAPID/DARCI** framework so “consult vs. decide” is explicit.
+- Use **RAPID** roles so “recommend/agree/perform/input/decide” and the **DRI** are explicit. (See Chapter 6 for DARCI mapping.)
 - Establish **kill criteria** for projects at the moment they are approved.
 
 ## Core Rituals to Install
@@ -45,7 +54,7 @@ Healthy executives **schedule** time in each room weekly.
 
 ## Deliverables (This Week)
 1. **1‑Page Executive Charter** — Your scope, bets, and 90‑day outcomes.
-2. **Decision Rights Map** — What you decide vs. delegate.
+2. **Decision Rights Map** — What you decide vs. delegate (RAPID with DRI).
 3. **Operating Cadence** — Your calendar becomes the company’s heartbeat.
 
 ### Executive Charter Template
@@ -80,16 +89,16 @@ Risks & Mitigations:
 - <Risk> → <Mitigation/Trigger>
 ```
 
-### Decision Rights Map Template (RAPID/DARCI hybrid)
+### Decision Rights Map Template (RAPID)
 ```
 Decision: <Name>
 Context: <Why this matters; one-way or two-way door?>
 
-D = Decider(s):
-A = Accountable owner:
-R = Recommenders (write the brief):
-C = Consulted (must be heard before decision):
-I = Informed (not in the room):
+R = Recommend:
+A = Agree (veto scope):
+P = Perform (DRI):
+I = Input (must be heard before decision):
+D = Decide:
 
 SLA & Escalation:
 - Draft by <date>; decision by <date>. Escalate to <who> if blocked >48h.
@@ -125,6 +134,26 @@ Quarterly:
 2. **Charter Draft (35m)** — Fill in the 1‑pager; cut to 3–5 priorities.
 3. **Decision Rights (20m)** — Identify 5 recurring decisions; assign RAPID roles.
 4. **Cadence Commit (10m)** — Block the recurring forums on the calendar.
+
+---
+
+## Stage & Context Adaptations
+- Startup/Turnaround: Bias toward Machine/Situation Rooms; invert 60/30; hold shorter, more frequent WBRs.
+- Scaleup: Install Talent Friday; formalize decision briefs; begin board update rhythm.
+- Enterprise: Strengthen governance and decision logs; align to board cadence.
+- Regulated: Add compliance checkpoints to WBR/MBR; pre-wire with Legal/Risk.
+- Remote/Distributed: Default to async memos; set decision SLAs; record forums.
+
+## Mini‑Case: From Heroics to Operating System
+A new VP inherited firefighting chaos. They ran a calendar audit (Four Rooms), drafted an Executive Charter, published a RAPID Decision Rights Map, and installed WBR/MBR. Within 6 weeks, escalation volume dropped 40% and cycle time improved 25% as more Type 2 decisions moved to teams.
+
+---
+
+## Connects to
+- Chapter 6: Decision Architecture (frameworks; escalation; audit)
+- Chapter 3: The Operating System (forums and standards)
+- Chapter 4: Capital Allocation (kill criteria at approval)
+- Chapter 12: Measuring What Matters (DRIs and dashboards)
 
 ---
 

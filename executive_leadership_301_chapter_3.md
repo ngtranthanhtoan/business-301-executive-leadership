@@ -11,6 +11,13 @@ Your OS is the **cadence, forums, and processes** that make the organization’s
 2. **Forums** — Where and how you meet to decide, review, and unblock.
 3. **Standards** — The agreed way work is planned, tracked, and measured.
 
+### OS Layers — Visual
+```mermaid
+flowchart TB
+  A[Cadence<br/>Weekly / Monthly / Quarterly / Annual] --> B[Forums<br/>WBR / MBR / Strategy / Talent]
+  B --> C[Standards<br/>DRIs / Decision Briefs / Single Metrics Source]
+```
+
 ---
 
 ## Cadence: Turning Time into a Force Multiplier
@@ -46,7 +53,7 @@ Key forums to establish:
 ## Standards: Reducing Friction in How Work Happens
 Examples:
 - **Single metrics source** — One dashboard everyone uses.
-- **Decision briefs** — A 1–2 page memo before major choices (no surprise decks).
+- **Decision briefs (RAPID)** — A 1–2 page memo and RAPID roles before major choices (no surprise decks).
 - **Project health codes** — Green/Yellow/Red with agreed definitions.
 - **Owner clarity** — Every deliverable has a *Directly Responsible Individual (DRI)*.
 
@@ -77,9 +84,29 @@ Examples:
 
 ---
 
+## Stage & Context Adaptations
+- Startup/Turnaround: Trim to WBR + ad-hoc Situation; keep metrics minimal; prioritize DRIs.
+- Scaleup: Formalize MBR; add Strategy Review; enforce decision briefs.
+- Enterprise: Strengthen governance; integrate board packet cadence; decision logs.
+- Regulated: Embed compliance in WBR/MBR inputs; risk register reviewed monthly.
+- Remote/Distributed: Pre-read memos; async updates; recorded forums.
+
+## Mini‑Case: OS in 30 Days
+A growth-stage company mapped 27 meetings, killed 9, merged 6, and installed WBR/MBR with single metrics source. Decision throughput rose 30% and prep time dropped by half as decks were replaced with one-page briefs.
+
+---
+
+## Connects to
+- Chapter 1: Core rituals (WBR/MBR) and executive charter
+- Chapter 6: Decision briefs and RAPID roles
+- Chapter 12: Single source of metrics and dashboard design
+- Chapter 4: Portfolio decisions and kill criteria in MBR
+
+---
+
 ## Chapter 3 “Ship It” Checklist
 - [ ] Written OS map with cadence, forums, and standards
 - [ ] DRIs assigned for all recurring forums
 - [ ] WBR/MBR agendas documented and shared
-- [ ] Decision briefs template in circulation
+- [ ] Decision briefs template in circulation (RAPID)
 - [ ] Single source of metrics live

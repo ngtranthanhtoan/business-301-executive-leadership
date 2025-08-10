@@ -78,6 +78,26 @@ Keep it lean — governance bloats when too many are “consulted.”
 
 ---
 
+## Stage & Context Adaptations
+- Startup/Turnaround: Minimum governance; decision logs; investor updates focused on changes/asks.
+- Scaleup: Formalize board packet TOC; quarterly review of decision rights.
+- Enterprise: Lean governance refresh; prune policy creep; board committee alignment.
+- Regulated: Compliance embedded in OS; regulator relationship calendar.
+- Remote/Distributed: Async board materials; shared source of truth for decisions.
+
+## Mini‑Case: Pre-wiring the Board
+A CEO struggled with board pushback. By pre-wiring decisions with 1:1s and a crisp “changes-and-asks” cover letter, meetings flipped from debate to approval and strategic discussion.
+
+---
+
+## Connects to
+- Chapter 3: OS forums as primary governance
+- Chapter 4: Capital decisions and board oversight
+- Chapter 7: Upward/outward communication discipline
+- Chapter 11: Crisis governance and roles
+
+---
+
 ## Chapter 8 “Ship It” Checklist
 - [ ] Decision rights clear and documented
 - [ ] Stakeholder map with engagement plan

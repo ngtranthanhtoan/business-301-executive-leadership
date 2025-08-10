@@ -108,6 +108,26 @@ Call to Action:
 
 ---
 
+## Stage & Context Adaptations
+- Startup/Turnaround: Sharpen diagnosis; single bold pillar; 30-day proof points.
+- Scaleup: Three pillars; measurable bets; monthly narrative refresh.
+- Enterprise: Business-unit alignment; board-ready narrative; avoid buzzwords.
+- Regulated: Explicit risk posture; compliance woven into pillars.
+- Remote/Distributed: Written first; leader scripts; async distribution.
+
+## Mini‑Case: Strategy People Can Retell
+A company’s strategy deck wasn’t adopted. They rewrote it to a one-sentence headline, three pillars, and five stories. Manager retell scores hit 90%, and execution velocity increased as teams aligned on the narrative.
+
+---
+
+## Connects to
+- Chapter 1: Executive Charter and Time Portfolio
+- Chapter 3: OS forums for repeated narrative
+- Chapter 7: Executive Communication patterns to distribute strategy
+- Chapter 12: Proof points on dashboards
+
+---
+
 ## Chapter 2 “Ship It” Checklist
 - [ ] Diagnosis written and validated with exec peers
 - [ ] 3–5 strategic pillars with owners

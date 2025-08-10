@@ -13,6 +13,17 @@ The wrong metrics = the wrong behaviors.
 2. **KPI Trees** — Break down NSM into supporting metrics for each department.  
 3. **Operational Metrics** — The daily/weekly indicators that drive action at the front lines.
 
+### KPI Tree — Visual
+```mermaid
+flowchart TB
+  NSM[North Star Metric] --> P[Product KPIs]
+  NSM --> G[Growth KPIs]
+  NSM --> O[Ops KPIs]
+  P --> P1[Activation / Retention]
+  G --> G1[CAC / Payback]
+  O --> O1[Cycle Time / Quality / SLA]
+```
+
 ---
 
 ## Characteristics of Good Metrics
@@ -27,6 +38,8 @@ The wrong metrics = the wrong behaviors.
 **Top layer** — Board & exec dashboard (NSM + top KPIs)  
 **Middle layer** — Functional dashboards (marketing, product, ops)  
 **Bottom layer** — Operational boards (team-specific, tactical metrics)
+
+Add the **DRI** for each metric on every layer.
 
 ---
 
@@ -82,9 +95,28 @@ When unit economics are strong, growth scales sustainably. When weak, growth sca
 
 ---
 
+## Stage & Context Adaptations
+- Startup/Turnaround: One-page metrics; emphasize leading indicators; weekly iteration.
+- Scaleup: Build KPI trees; add counter-metrics; institute MBR reviews.
+- Enterprise: Tight governance of definitions; audit trails; link to incentives.
+- Regulated: Include risk/compliance metrics; evidence for audits; thresholds.
+- Remote/Distributed: Async dashboards; narrative updates accompany graphs.
+
+## Mini‑Case: Fixing Vanity Metrics
+A team tracked signups without activation. By adopting a KPI tree tied to NSM (retention), they shifted focus to activation and D30 retention. Growth slowed briefly but LTV rose 22% and payback improved by 3 months.
+
+---
+
+## Connects to
+- Chapter 3: Single source of metrics and OS forums (WBR/MBR)
+- Chapter 4: Portfolio ROI tracking and kill criteria triggers
+- Chapter 6: Decision audits and RAPID DRIs tied to metrics
+
+---
+
 ## Chapter 12 “Ship It” Checklist
 - [ ] North Star Metric defined and communicated
 - [ ] KPI tree aligned to strategy
 - [ ] Counter-metrics in place to prevent gaming
-- [ ] Dashboards live with owners assigned
+- [ ] Dashboards live with owners assigned (DRIs listed)
 - [ ] Metric review cadence locked

@@ -31,6 +31,14 @@ Think like an investor:
 
 This prevents “core starvation” while keeping the future alive.
 
+### Portfolio Mix — Visual
+```mermaid
+flowchart LR
+  A[Core Bets<br/>50-60%] --> P[Portfolio]
+  B[Growth Bets<br/>20-30%] --> P
+  C[Option Bets<br/>10-20%] --> P
+```
+
 ---
 
 ## Kill Criteria — Your Best Friend
@@ -39,11 +47,13 @@ Great allocators **define kill criteria at approval time**, not after months of 
 - **Date-based**: If milestone not hit by Q2, stop.
 - **Strategic-fit based**: If market changes make bet irrelevant, stop.
 
+Attach kill criteria to the **decision brief** and review at the **MBR**.
+
 ---
 
 ## The Decision Matrix (Example)
 | Investment | Type        | Size | ROI Expectation | Kill Criteria       | DRI       |
-|------------|------------|------|-----------------|---------------------|-----------|
+|------------|-------------|------|-----------------|---------------------|-----------|
 | Project A  | Core        | $$$  | Maintain 25% GM | <20% GM for 2Q      | VP Sales  |
 | Project B  | Growth      | $$   | 3x in 3 years   | Miss 2Q adoption    | VP Product|
 | Project C  | Option      | $    | Breakthrough AI | No MVP by Dec       | CTO       |
@@ -72,6 +82,25 @@ Great allocators **define kill criteria at approval time**, not after months of 
 3. **Kill criteria definition (20m)** — Add explicit stop rules to each bet.
 4. **Rebalance (15m)** — Adjust funding/talent to hit ideal distribution.
 5. **Communicate (10m)** — Share portfolio changes with stakeholders.
+
+---
+
+## Stage & Context Adaptations
+- Startup/Turnaround: Heavier Option/Growth mix initially; time-box experiments; weekly rebalance.
+- Scaleup: Protect Core funding; formalize kill criteria; monthly small shifts.
+- Enterprise: Zero-based budgeting; rigorous ROI hurdles; governance reviews.
+- Regulated: Include compliance risk-weighting; pre-approve stop rules with Legal/Risk.
+- Remote/Distributed: Share portfolio in memo; async review, live decision.
+
+## Mini‑Case: Rebalancing to Strength
+A scaleup starved its cash engine while funding 12 small bets. By moving to 55% Core, 25% Growth, 20% Options and adding kill criteria, it grew GM by 6 points and freed 15% opex for compounding Core initiatives.
+
+---
+
+## Connects to
+- Chapter 6: Decision briefs and RAPID roles for investment approvals
+- Chapter 3: MBR as the forum for portfolio review and reallocations
+- Chapter 12: KPI trees and dashboards that track ROI and kill triggers
 
 ---
 

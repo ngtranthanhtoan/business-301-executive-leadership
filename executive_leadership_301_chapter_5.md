@@ -84,6 +84,26 @@ A tool for plotting performance vs. potential:
 
 ---
 
+## Stage & Context Adaptations
+- Startup/Turnaround: Keep structure minimal; prioritize A-player bar; founders hold DRIs.
+- Scaleup: Add layers only when forced; codify career architecture; strengthen recruiting loop.
+- Enterprise: Clarify decision rights in matrix; invest in manager capability.
+- Regulated: Segregation of duties; compliance roles defined; documented competencies.
+- Remote/Distributed: Smaller spans; explicit rituals; strong written interfaces.
+
+## Mini‑Case: Density Over Headcount
+Two comparable teams had very different outcomes. The smaller, high-density team shipped faster and cleaner. By exiting 2 low performers and hiring 1 star, the org increased throughput 30% with fewer heads and less managerial debt.
+
+---
+
+## Connects to
+- Chapter 2: Structure follows strategy
+- Chapter 3: Forums and decision flow across org design
+- Chapter 9: Culture norms to reinforce density
+- Chapter 8: Governance for succession and role clarity
+
+---
+
 ## Chapter 5 “Ship It” Checklist
 - [ ] Org chart aligned to strategy, not legacy design
 - [ ] Talent density reviewed and measured

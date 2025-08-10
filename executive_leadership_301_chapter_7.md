@@ -84,6 +84,26 @@ A simple way to structure any communication:
 
 ---
 
+## Stage & Context Adaptations
+- Startup/Turnaround: Short, fast cycles; weekly all-hands; simple dashboards.
+- Scaleup: Formalize one-pagers; install cadence for all-hands and board updates.
+- Enterprise: Align BU narratives; ensure internal/external consistency.
+- Regulated: Pre-approve risk language; align with Legal/Compliance.
+- Remote/Distributed: Written-first; async video; leader scripts.
+
+## Mini‑Case: “No Surprises” Culture
+A company had board friction due to late bad news. Switching to “changes-and-asks first” one-pagers built trust; decisions sped up and board meetings shifted from surprises to choices.
+
+---
+
+## Connects to
+- Chapter 2: Strategy narrative content
+- Chapter 1: Executive charter and time portfolio
+- Chapter 11: Crisis comms alignment
+- Chapter 12: Dashboards that support the story
+
+---
+
 ## Chapter 7 “Ship It” Checklist
 - [ ] Have a repeatable structure for all major communications
 - [ ] Key messages repeated across all channels

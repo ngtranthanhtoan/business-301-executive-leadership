@@ -23,6 +23,8 @@ As an executive, you’re less valuable as a **decision maker** and more valuabl
 ---
 
 ## Decision Frameworks That Scale
+This book standardizes on **RAPID** as the default decision framework. Use **DARCI** only where it’s already entrenched; map roles carefully.
+
 - **RAPID** (Bain)  
   - **R**ecommend: Writes the brief, proposes.  
   - **A**gree: Has veto power on certain aspects.  
@@ -30,12 +32,21 @@ As an executive, you’re less valuable as a **decision maker** and more valuabl
   - **I**nput: Consulted before decision.  
   - **D**ecide: The final call.
 
-- **DARCI** (nonprofit sector)  
-  - **D**river: Ensures work happens.  
-  - **A**pprover: Signs off.  
-  - **R**esponsible: Does the work.  
-  - **C**onsulted: Gives advice.  
-  - **I**nformed: Gets updates.
+- DARCI mapping (if needed)  
+  - R (RAPID) ≈ Driver/Responsible (DARCI) for drafting and owning the brief  
+  - A (RAPID) ≈ Approver (DARCI) with explicit veto scope  
+  - P (RAPID) ≈ Responsible (DARCI) execution DRI  
+  - I (RAPID) ≈ Consulted/Informed (DARCI)  
+  - D (RAPID) ≈ Approver/Final decision (DARCI)
+
+### Escalation Ladder — Visual
+```mermaid
+flowchart TB
+  L1[Level 1<br/>Team/Individual] --> L2[Level 2<br/>Function/Dept Head]
+  L2 --> L3[Level 3<br/>Exec/CEO]
+  note right of L1: Type 2 decisions default here
+  note right of L3: Type 1 decisions rare here
+```
 
 ---
 
@@ -47,7 +58,7 @@ As an executive, you’re less valuable as a **decision maker** and more valuabl
 3. **Recommendation** — Chosen path, with rationale.
 4. **Risks & mitigations** — What could go wrong, and countermeasures.
 5. **Impact** — On customers, financials, ops, brand.
-6. **Decision rights** — Who Decides, who Performs, who’s Informed.
+6. **Decision rights (RAPID)** — Who Decides, who Performs (DRI), who’s Informed.
 
 ---
 
@@ -79,15 +90,35 @@ Quarterly, review:
 
 ## 90-Minute Decision Architecture Workshop
 1. **Decision mapping (20m)** — List 10 recurring decisions; classify as Type 1 or 2.
-2. **Assign rights (20m)** — Apply RAPID or DARCI to each.
+2. **Assign rights (20m)** — Apply RAPID to each (map to DARCI if your org uses it).
 3. **Draft briefs (20m)** — Pick 2 big upcoming decisions; write briefs.
 4. **Design escalation (15m)** — Agree on triggers and turnaround SLAs.
 5. **Set audit rhythm (15m)** — Quarterly review with metrics.
 
 ---
 
+## Stage & Context Adaptations
+- Startup/Turnaround: Favor speed; default Type 2 to teams; keep briefs lightweight.
+- Scaleup: Formalize RAPID and escalation SLAs; start decision audits.
+- Enterprise: Strong decision memory; board-linked escalations; compliance input.
+- Regulated: Pre-define veto scopes with Legal/Risk; record rationales.
+- Remote/Distributed: Use memos/comments; async approvals; clear SLAs.
+
+## Mini‑Case: Unsticking Product Decisions
+A product org suffered 3-week delays on simple choices. By classifying decisions and pushing Type 2 to teams with RAPID and a 72-hour SLA, cycle time dropped 45% and exec escalations were cut in half.
+
+---
+
+## Connects to
+- Chapter 1: Decision Rights That Scale You (installing rights early)
+- Chapter 3: The Operating System (forums and standards for decision flow)
+- Chapter 4: Capital Allocation (kill criteria set at approval time)
+- Chapter 12: Measuring What Matters (decision metrics and audit)
+
+---
+
 ## Chapter 6 “Ship It” Checklist
-- [ ] Decision rights mapped and visible
+- [ ] Decision rights mapped and visible (RAPID)
 - [ ] Type 1 vs Type 2 decisions defined
 - [ ] Decision brief template in use
 - [ ] Escalation ladder agreed

@@ -28,6 +28,15 @@ You can’t always control severity, but you can radically change the outcome th
 - **Single source of truth** — One comms channel for updates.
 - **Time-boxed actions** — Move in minutes/hours, not days.
 
+### ICS Roles — Visual
+```mermaid
+flowchart TB
+  IC[Incident Commander] --> OPS[Ops Lead]
+  IC --> COMMS[Comms Lead]
+  IC --> LEGAL[Legal/Risk]
+  IC --> LIAISON[Liaison]
+```
+
 ---
 
 ## Roles in the Crisis Room
@@ -78,6 +87,26 @@ Run **pre-crisis drills**:
 3. **First 24h plan (20m)** — Draft step-by-step actions.
 4. **Comms drill (20m)** — Write and deliver the first internal + external message.
 5. **Debrief & improve (15m)** — Capture lessons and update playbook.
+
+---
+
+## Stage & Context Adaptations
+- Startup/Turnaround: Lightweight ICS; pre-written holding statement; CEO often IC.
+- Scaleup: Formal ICS rotation; single source of truth; regular drills.
+- Enterprise: Cross-function ICS; regulatory reporting; board liaison plan.
+- Regulated: Required notifications; legal reviews; evidence capture.
+- Remote/Distributed: Incident channels; on-call rotations; async status page.
+
+## Mini‑Case: PR Crisis Contained
+A social backlash grew over a product change. Within 2 hours, the team acknowledged, paused the change, opened a feedback channel, and scheduled updates. The issue cooled within 24 hours; the post-mortem improved change management.
+
+---
+
+## Connects to
+- Chapter 7: Crisis communication principles
+- Chapter 8: Governance and board relations in crisis
+- Chapter 3: Situation Room forum design
+- Chapter 12: Reliability and risk metrics
 
 ---
 
