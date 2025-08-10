@@ -35,10 +35,8 @@ This book standardizes on **RAPID** as the default decision framework. Use **DAR
 ### Escalation Ladder — Visual
 ```mermaid
 flowchart TB
-  L1[Level 1<br/>Team/Individual] --> L2[Level 2<br/>Function/Dept Head]
-  L2 --> L3[Level 3<br/>Exec/CEO]
-  note right of L1: Type 2 decisions default here
-  note right of L3: Type 1 decisions rare here
+  L1[Level 1\nTeam/Individual\n(Type 2 decisions default here)] --> L2[Level 2\nFunction/Dept Head]
+  L2 --> L3[Level 3\nExec/CEO\n(Type 1 decisions rare here)]
 ```
 
 ---
