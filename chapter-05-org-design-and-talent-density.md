@@ -1,8 +1,14 @@
-# Chapter 5: Org Design & Talent Density
+# Chapter 05: Org Design & Talent Density
 
 ## Why This Chapter Matters
 Most strategy failures aren’t *thinking* problems — they’re **org design** problems.  
 If the wrong people are in the wrong structure, even the best strategy will crawl.
+
+## What Goes Wrong Without This
+- Structure drift: Org charts reflect history, not strategy; handoffs stall work.
+- Managerial debt: Low talent density forces micromanagement and rework.
+- Title inflation: Authority without capability undermines execution.
+- Succession gaps: Single points of failure create fragility and slow promotions.
 
 Your job:  
 - Design the **minimum viable structure** that executes the strategy.  
@@ -87,10 +93,10 @@ Two comparable teams had very different outcomes. The smaller, high-density team
 ---
 
 ## Connects to
-- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_02.md) (Structure follows strategy)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (Forums and decision flow across org design)
-- [Chapter 9: Culture by Design](executive_leadership_301_chapter_09.md) (Culture norms to reinforce density)
-- [Chapter 8: Governance & Stakeholders](executive_leadership_301_chapter_08.md) (Governance for succession and role clarity)
+- [Chapter 02: Strategy & Narrative](chapter-02-strategy-and-narrative.md) (Structure follows strategy)
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md) (Forums and decision flow across org design)
+- [Chapter 08: Governance & Stakeholders](chapter-08-governance-and-stakeholders.md) (Governance for succession and role clarity)
+- [Chapter 09: Culture by Design](chapter-09-culture-by-design.md) (Culture norms to reinforce density)
 
 ---
 
@@ -102,6 +108,6 @@ Two comparable teams had very different outcomes. The smaller, high-density team
 - [ ] Hiring/firing actions agreed and in motion
 
 ## Next
-- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_06.md)
+- [Chapter 06: Decision Architecture](chapter-06-decision-architecture.md)
 
 See [Succession Plan Grid](./templates/succession_plan_grid.md)

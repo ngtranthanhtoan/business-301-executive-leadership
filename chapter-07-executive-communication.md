@@ -1,8 +1,14 @@
-# Chapter 7: Executive Communication
+# Chapter 07: Executive Communication
 
 ## Why This Chapter Matters
 At the executive level, communication is not “sharing information” — it’s **shaping perception and driving action**.  
 Every word you say (or don’t say) has multiplied effects across teams, investors, customers, and media.
+
+## What Goes Wrong Without This
+- Message fragmentation: Different teams hear different priorities; execution diverges.
+- Surprise escalations: Boards and bosses lose trust when asks are buried.
+- Info overload: Too many words, not enough signal; audiences tune out.
+- Crisis missteps: Inconsistent internal/external messaging amplifies damage.
 
 ---
 
@@ -93,10 +99,10 @@ A company had board friction due to late bad news. Switching to “changes-and-a
 ---
 
 ## Connects to
-- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_02.md) (Strategy narrative content)
-- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_01.md) (Executive charter and time portfolio)
-- [Chapter 11: Crisis Leadership](executive_leadership_301_chapter_11.md) (Crisis comms alignment)
-- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Dashboards that support the story)
+- [Chapter 01: The Executive Shift](chapter-01-the-executive-shift.md) (Executive charter and time portfolio)
+- [Chapter 02: Strategy & Narrative](chapter-02-strategy-and-narrative.md) (Strategy narrative content)
+- [Chapter 11: Crisis Leadership](chapter-11-crisis-leadership.md) (Crisis comms alignment)
+- [Chapter 12: Measuring What Matters](chapter-12-measuring-what-matters.md) (Dashboards that support the story)
 
 ---
 
@@ -108,4 +114,4 @@ A company had board friction due to late bad news. Switching to “changes-and-a
 - [ ] Upward reports always lead with changes and asks
 
 ## Next
-- [Chapter 8: Governance & Stakeholders](executive_leadership_301_chapter_08.md)
+- [Chapter 08: Governance & Stakeholders](chapter-08-governance-and-stakeholders.md)

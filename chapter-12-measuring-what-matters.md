@@ -5,6 +5,12 @@ At the executive level, metrics aren’t just numbers — they are **commitments
 They define how success is judged, what gets attention, and what resources get allocated.  
 The wrong metrics = the wrong behaviors.
 
+## What Goes Wrong Without This
+- Vanity metrics: Good-looking numbers mask poor value creation.
+- Perverse incentives: Unbalanced metrics drive corner-cutting.
+- Ownerless dashboards: Metrics without DRIs become wall art.
+- Cadence gaps: Infrequent reviews delay course correction.
+
 ---
 
 ## The Three Levels of Metrics
@@ -103,9 +109,9 @@ A team tracked signups without activation. By adopting a KPI tree tied to NSM (r
 ---
 
 ## Connects to
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (Single source of metrics and OS forums (WBR/MBR))
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_04.md) (Portfolio ROI tracking and kill criteria triggers)
-- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_06.md) (Decision audits and RAPID DRIs tied to metrics)
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md) (Single source of metrics and OS forums (WBR/MBR))
+- [Chapter 04: Capital Allocation](chapter-04-capital-allocation.md) (Portfolio ROI tracking and kill criteria triggers)
+- [Chapter 06: Decision Architecture](chapter-06-decision-architecture.md) (Decision audits and RAPID DRIs tied to metrics)
 
 ---
 

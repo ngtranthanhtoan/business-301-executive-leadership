@@ -14,6 +14,6 @@
 - Portfolio Mix: Allocation across Core, Growth, and Option bets.
 
 ## Next
-- [References](executive_leadership_301_references.md)
+- [References](references.md)
 
 

@@ -1,7 +1,13 @@
-# Chapter 2: Strategy & Narrative
+# Chapter 02: Strategy & Narrative
 
 ## Why This Chapter Matters
 At the executive level, strategy and narrative are inseparable. A strategy without a compelling story will never be adopted, while a story without a solid strategy will eventually collapse. Your job is to define what game you’re playing, where you can win, and how you’ll win, then wrap that in a narrative that your teams, investors, and customers can retell without dilution.
+
+## What Goes Wrong Without This
+- Decks without decisions: Strategy becomes an annual theater, not a living guide.
+- Local optimizations: Teams pursue conflicting priorities, diluting impact.
+- Story drift: Managers retell different versions; execution slows from confusion.
+- Investor/customer skepticism: No crisp “why now” leads to hesitancy and higher friction.
 
 ## The Strategy Kernel (Richard Rumelt Model)
 A usable strategy consists of three essential parts: a diagnosis that frames the hard truth about the situation simply; a guiding policy that outlines the approach you’ll take (and those you won’t); and coherent actions that are specific, coordinated moves aligning with the guiding policy.
@@ -72,10 +78,10 @@ When developing strategy and narrative, steer clear of these common pitfalls:
 A company’s strategy deck wasn’t adopted. They rewrote it to a one-sentence headline, three pillars, and five stories. Manager retell scores hit 90%, and execution velocity increased as teams aligned on the narrative.
 
 ## Connects to
-- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_01.md) (Executive Charter and Time Portfolio)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (OS forums for repeated narrative)
-- [Chapter 7: Executive Communication](executive_leadership_301_chapter_07.md) (patterns to distribute strategy)
-- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Proof points on dashboards)
+- [Chapter 01: The Executive Shift](chapter-01-the-executive-shift.md) (Executive Charter and Time Portfolio)
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md) (OS forums for repeated narrative)
+- [Chapter 07: Executive Communication](chapter-07-executive-communication.md) (patterns to distribute strategy)
+- [Chapter 12: Measuring What Matters](chapter-12-measuring-what-matters.md) (Proof points on dashboards)
 
 ## Chapter 2 “Ship It” Checklist
 - [ ] Diagnosis written and validated with exec peers
@@ -85,4 +91,4 @@ A company’s strategy deck wasn’t adopted. They rewrote it to a one-sentence 
 - [ ] Distribution plan for next 30 days locked
 
 ## Next
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md)
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md)

@@ -142,4 +142,4 @@ At this level, the bottleneck often becomes you — your time, energy, and judgm
 **Directions for Deep Dive:** Study case studies of high-growth companies. Compare leadership patterns across industries.
 
 ## Next
-- [Back Matter](executive_leadership_301_back_matter.md)
+- [Back Matter](back-matter.md)

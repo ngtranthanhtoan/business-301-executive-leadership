@@ -1,7 +1,13 @@
-# Chapter 3: The Operating System
+# Chapter 03: The Operating System
 
 ## Why This Chapter Matters
 A company without an operating system (OS) is like a band without rhythm — even talented players sound chaotic. Your OS comprises the cadence, forums, and processes that make the organization’s work visible, decisions fast, and priorities consistent.
+
+## What Goes Wrong Without This
+- Meeting sprawl: Lots of updates, few decisions; prep consumes execution time.
+- Misaligned clocks: Teams run at different cadences, creating handoff friction.
+- Metrics soup: No single source of truth; debates replace progress.
+- Ownerless work: Without DRIs, accountability diffuses and deadlines slip.
 
 ## The Three Layers of an Executive Operating System
 An effective executive operating system has three layers: cadence, which determines when things happen (weekly, monthly, quarterly rhythms); forums, which define where and how you meet to decide, review, and unblock; and standards, which establish the agreed way work is planned, tracked, and measured.
@@ -77,10 +83,10 @@ To build a strong OS, avoid these pitfalls:
 A growth-stage company mapped 27 meetings, killed 9, merged 6, and installed WBR/MBR with single metrics source. Decision throughput rose 30% and prep time dropped by half as decks were replaced with one-page briefs.
 
 ## Connects to
-- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_01.md) (Core rituals (WBR/MBR) and executive charter)
-- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_06.md) (Decision briefs and RAPID roles)
-- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Single source of metrics and dashboard design)
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md)
+- [Chapter 01: The Executive Shift](chapter-01-the-executive-shift.md) (Core rituals (WBR/MBR) and executive charter)
+- [Chapter 04: Capital Allocation](chapter-04-capital-allocation.md)
+- [Chapter 06: Decision Architecture](chapter-06-decision-architecture.md) (Decision briefs and RAPID roles)
+- [Chapter 12: Measuring What Matters](chapter-12-measuring-what-matters.md) (Single source of metrics and dashboard design)
 
 ## Chapter 3 “Ship It” Checklist
 - [ ] Written OS map with cadence, forums, and standards
@@ -90,7 +96,7 @@ A growth-stage company mapped 27 meetings, killed 9, merged 6, and installed WBR
 - [ ] Single source of metrics live
 
 ## Next
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_04.md)
+- [Chapter 04: Capital Allocation](chapter-04-capital-allocation.md)
 
 ## Embedded Templates
 

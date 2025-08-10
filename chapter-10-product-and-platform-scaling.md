@@ -4,6 +4,12 @@
 At some point, the bottleneck to growth isn’t market demand — it’s the company’s **ability to deliver at scale**.  
 Scaling is about **adding capacity and capability faster than complexity increases**.
 
+## What Goes Wrong Without This
+- Scale drag: Headcount rises faster than throughput; costs outpace growth.
+- Reliability tax: Incidents and latency silently cap growth and burn teams.
+- Platform debt: Monolith coupling blocks product velocity; rewrites loom.
+- Build/buy/partner confusion: Decisions stall or optimize the wrong axis.
+
 ---
 
 ## The Three Scaling Dimensions
@@ -81,10 +87,10 @@ Feature teams were blocked by incidents. Introducing SLOs and an error budget po
 ---
 
 ## Connects to
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_04.md) (Capital allocation for scaling bets)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (OS rituals for cross-team coordination)
-- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Metrics for platform reliability and cost)
-- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_06.md) (Decision rights for Build/Buy/Partner choices)
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md) (OS rituals for cross-team coordination)
+- [Chapter 04: Capital Allocation](chapter-04-capital-allocation.md) (Capital allocation for scaling bets)
+- [Chapter 06: Decision Architecture](chapter-06-decision-architecture.md) (Decision rights for Build/Buy/Partner choices)
+- [Chapter 12: Measuring What Matters](chapter-12-measuring-what-matters.md) (Metrics for platform reliability and cost)
 
 ---
 
@@ -96,7 +102,7 @@ Feature teams were blocked by incidents. Introducing SLOs and an error budget po
 - [ ] Platform observability in place
 
 ## Next
-- [Chapter 11: Crisis Leadership](executive_leadership_301_chapter_11.md)
+- [Chapter 11: Crisis Leadership](chapter-11-crisis-leadership.md)
 
 ## Embedded Template: Build/Buy/Partner Scorecard
 

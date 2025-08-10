@@ -1,8 +1,14 @@
-# Chapter 4: Capital Allocation
+# Chapter 04: Capital Allocation
 
 ## Why This Chapter Matters
 At scale, your main job isn’t to “run projects” — it’s to **decide where the organization’s scarce resources go** and where they don’t.  
 Capital allocation is how you shape the future **faster than competitors** while avoiding the trap of overcommitting to low-return bets.
+
+## What Goes Wrong Without This
+- Pet projects persist: Politics outlasts data; low-ROI bets drain the portfolio.
+- Core starvation: Shiny new initiatives crowd out the cash engine.
+- Sunk-cost traps: No kill criteria leads to late, painful reversals.
+- Whiplash: Irregular reallocations create thrash and burn trust.
 
 ---
 
@@ -89,9 +95,9 @@ A scaleup starved its cash engine while funding 12 small bets. By moving to 55% 
 ---
 
 ## Connects to
-- [Chapter 6: Decision Architecture](executive_leadership_301_chapter_06.md) (Decision briefs and RAPID roles for investment approvals)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (MBR as the forum for portfolio review and reallocations)
-- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (KPI trees and dashboards that track ROI and kill triggers)
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md) (MBR as the forum for portfolio review and reallocations)
+- [Chapter 06: Decision Architecture](chapter-06-decision-architecture.md) (Decision briefs and RAPID roles for investment approvals)
+- [Chapter 12: Measuring What Matters](chapter-12-measuring-what-matters.md) (KPI trees and dashboards that track ROI and kill triggers)
 
 ---
 
@@ -103,4 +109,4 @@ A scaleup starved its cash engine while funding 12 small bets. By moving to 55% 
 - [ ] Option bets limited to safe portfolio %
 
 ## Next
-- [Chapter 5: Org Design & Talent Density](executive_leadership_301_chapter_05.md)
+- [Chapter 05: Org Design & Talent Density](chapter-05-org-design-and-talent-density.md)

@@ -1,4 +1,13 @@
-# Chapter 1: The Executive Shift
+# Chapter 01: The Executive Shift
+
+## Why This Chapter Matters
+Your personal shift sets the entire system. Without rebalancing your time, redefining decision rights, and installing core rituals, everything else in this book will underperform. This chapter gives you the executive context and rhythms that make later chapters (strategy, capital, metrics) actually work in practice.
+
+## What Goes Wrong Without This
+- Escalation overload: Type 2 decisions keep bouncing up, slowing everything.
+- Calendar drift: Meetings accumulate without a decision purpose; prep time explodes.
+- Silent misalignment: Teams make reasonable but conflicting choices without context.
+- Talent under-leverage: Your best people spend cycles chasing clarity instead of outcomes.
 
 ## What Changes at 301
 At this level, your role shifts from being the person who solves hard problems to being the person who shapes the conditions in which the entire enterprise solves problems. Your core responsibilities become allocating attention — the rarest and most valuable resource; setting context so decisions can be made without you in the room; selecting people and designing systems that endure beyond individual projects; and stewarding capital — not just money, but also time, brand, and technical leverage.
@@ -97,10 +106,10 @@ A new VP inherited firefighting chaos. They ran a calendar audit (Four Rooms), d
 ---
 
 ## Connects to
-- [Chapter 6: Decision Architecture](chapter-06-decision-architecture.md) (frameworks; escalation; audit)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (forums and standards)
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_04.md) (kill criteria at approval)
-- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (DRIs and dashboards)
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md) (forums and standards)
+- [Chapter 04: Capital Allocation](chapter-04-capital-allocation.md) (kill criteria at approval)
+- [Chapter 06: Decision Architecture](chapter-06-decision-architecture.md) (frameworks; escalation; audit)
+- [Chapter 12: Measuring What Matters](chapter-12-measuring-what-matters.md) (DRIs and dashboards)
 
 ---
 
@@ -111,4 +120,4 @@ A new VP inherited firefighting chaos. They ran a calendar audit (Four Rooms), d
 - [ ] First WBR data pack ready (same metrics, every week)
 
 ## Next
-- [Chapter 2: Strategy & Narrative](executive_leadership_301_chapter_02.md)
+- [Chapter 02: Strategy & Narrative](chapter-02-strategy-and-narrative.md)

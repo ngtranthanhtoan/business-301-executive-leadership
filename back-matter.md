@@ -9,7 +9,7 @@ These templates are designed to be customized for your organization. Start with 
 ## Further Study Plan
 To deepen your mastery:
 1. Review the references linked in each chapter.
-2. Choose an Advanced Mastery Track from the [References](executive_leadership_301_references.md) section based on your current challenges (e.g., Complex Systems for volatile environments).
+2. Choose an Advanced Mastery Track from the [References](references.md) section based on your current challenges (e.g., Complex Systems for volatile environments).
 3. Apply one new framework per quarter, tracking impact via your OS metrics.
 4. Join or form a peer group of executives to discuss implementations.
 

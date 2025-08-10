@@ -1,10 +1,16 @@
-# Chapter 8: Governance & Stakeholders
+# Chapter 08: Governance & Stakeholders
 
 ## Why This Chapter Matters
 At the executive level, you’re operating in a **network of obligations and influence**:  
 - Internal governance: decision-making forums, policies, compliance.  
 - External governance: boards, investors, regulators, major partners.  
 - Stakeholder management: aligning powerful players without losing speed.
+
+## What Goes Wrong Without This
+- Governance theater: Lots of oversight optics, little real control.
+- Policy creep: Rules multiply; exceptions become the real policy.
+- Stakeholder surprises: Mismanaged expectations trigger political drag.
+- Compliance gaps: Risk accumulates invisibly until it’s expensive.
 
 ---
 
@@ -86,10 +92,10 @@ A CEO struggled with board pushback. By pre-wiring decisions with 1:1s and a cri
 ---
 
 ## Connects to
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (OS forums as primary governance)
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_04.md) (Capital decisions and board oversight)
-- [Chapter 7: Executive Communication](executive_leadership_301_chapter_07.md) (Upward/outward communication discipline)
-- [Chapter 11: Crisis Leadership](executive_leadership_301_chapter_11.md) (Crisis governance and roles)
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md) (OS forums as primary governance)
+- [Chapter 04: Capital Allocation](chapter-04-capital-allocation.md) (Capital decisions and board oversight)
+- [Chapter 07: Executive Communication](chapter-07-executive-communication.md) (Upward/outward communication discipline)
+- [Chapter 11: Crisis Leadership](chapter-11-crisis-leadership.md) (Crisis governance and roles)
 
 ---
 
@@ -101,7 +107,7 @@ A CEO struggled with board pushback. By pre-wiring decisions with 1:1s and a cri
 - [ ] Governance reviewed quarterly for speed + effectiveness
 
 ## Next
-- [Chapter 9: Culture by Design](executive_leadership_301_chapter_09.md)
+- [Chapter 09: Culture by Design](chapter-09-culture-by-design.md)
 
 ## Embedded Templates
 

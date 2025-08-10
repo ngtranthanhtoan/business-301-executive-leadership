@@ -4,6 +4,12 @@
 Crises are inevitable — outages, PR blow-ups, legal challenges, market shocks.  
 How you lead in those moments defines **trust**, **reputation**, and sometimes **survival**.
 
+## What Goes Wrong Without This
+- Decision vacuum: No clear owner; tempo collapses under stress.
+- Comms whiplash: Conflicting messages worsen impact and credibility.
+- Slow stabilization: Lack of drills and playbooks prolongs damage window.
+- No learning loop: Same failure patterns repeat in the next crisis.
+
 ---
 
 ## The Crisis Leadership Equation
@@ -98,10 +104,10 @@ A social backlash grew over a product change. Within 2 hours, the team acknowled
 ---
 
 ## Connects to
-- [Chapter 7: Executive Communication](executive_leadership_301_chapter_7.md) (Crisis communication principles)
-- [Chapter 8: Governance & Stakeholders](executive_leadership_301_chapter_8.md) (Governance and board relations in crisis)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (Situation Room forum design)
-- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Reliability and risk metrics)
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md) (Situation Room forum design)
+- [Chapter 07: Executive Communication](chapter-07-executive-communication.md) (Crisis communication principles)
+- [Chapter 08: Governance & Stakeholders](chapter-08-governance-and-stakeholders.md) (Governance and board relations in crisis)
+- [Chapter 12: Measuring What Matters](chapter-12-measuring-what-matters.md) (Reliability and risk metrics)
 
 ---
 
@@ -113,7 +119,7 @@ A social backlash grew over a product change. Within 2 hours, the team acknowled
 - [ ] Recovery and learning loop in place
 
 ## Next
-- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md)
+- [Chapter 12: Measuring What Matters](chapter-12-measuring-what-matters.md)
 
 ## Embedded Template: Crisis Playbook
 

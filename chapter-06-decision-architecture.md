@@ -1,7 +1,13 @@
-# Chapter 6: Decision Architecture
+# Chapter 06: Decision Architecture
 
 ## Why This Chapter Matters
 As an executive, you’re less valuable as a **decision maker** and more valuable as a **decision architect** — designing **how** and **where** decisions get made so the organization can act fast without chaos.
+
+## What Goes Wrong Without This
+- Over-escalation: Leaders become bottlenecks for reversible decisions.
+- Shadow decisions: Outcomes decided informally without roles or records.
+- Consensus paralysis: Endless alignment attempts stall Type 1 calls.
+- No decision memory: Repeated debates because briefs and logs don’t exist.
 
 ---
 
@@ -101,10 +107,10 @@ A product org suffered 3-week delays on simple choices. By classifying decisions
 ---
 
 ## Connects to
-- [Chapter 1: The Executive Shift](executive_leadership_301_chapter_1.md) (Decision Rights That Scale You (installing rights early))
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_3.md) (The Operating System (forums and standards for decision flow))
-- [Chapter 4: Capital Allocation](executive_leadership_301_chapter_4.md) (Capital Allocation (kill criteria set at approval time))
-- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Measuring What Matters (decision metrics and audit))
+- [Chapter 01: The Executive Shift](chapter-01-the-executive-shift.md) (Decision Rights That Scale You (installing rights early))
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md) (Forums and standards for decision flow)
+- [Chapter 04: Capital Allocation](chapter-04-capital-allocation.md) (Kill criteria set at approval time)
+- [Chapter 12: Measuring What Matters](chapter-12-measuring-what-matters.md) (Decision metrics and audit)
 
 ---
 
@@ -116,7 +122,7 @@ A product org suffered 3-week delays on simple choices. By classifying decisions
 - [ ] Quarterly decision audit scheduled
 
 ## Next
-- [Chapter 7: Executive Communication](executive_leadership_301_chapter_07.md)
+- [Chapter 07: Executive Communication](chapter-07-executive-communication.md)
 
 ## Embedded Templates
 

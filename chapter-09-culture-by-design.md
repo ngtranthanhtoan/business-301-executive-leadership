@@ -1,9 +1,15 @@
-# Chapter 9: Culture by Design
+# Chapter 09: Culture by Design
 
 ## Why This Chapter Matters
 Culture isn’t just “how we do things around here.”  
 It’s the **default operating system** of the company — the unwritten rules that guide decisions when no one is watching.  
 At the executive level, your job is to **design**, **model**, and **reinforce** the culture you want.
+
+## What Goes Wrong Without This
+- Poster values: Stated values diverge from lived behaviors; cynicism grows.
+- Value sprawl: Too many “priorities” equals none; norms become situational.
+- Brilliant jerk tolerance: Short-term wins erode long-term trust and speed.
+- Ritual decay: Without maintenance, culture defaults to convenience.
 
 ---
 
@@ -132,10 +138,10 @@ At Acme Tech, we build innovative SaaS solutions that empower small businesses t
 This doc evolves with our company—review and update quarterly.
 
 ## Connects to
-- [Chapter 5: Org Design & Talent Density](executive_leadership_301_chapter_05.md) (Org design, spans/layers, and talent density)
-- [Chapter 3: The Operating System](executive_leadership_301_chapter_03.md) (Rituals embedded in the operating system)
-- [Chapter 7: Executive Communication](executive_leadership_301_chapter_07.md) (Storytelling that reinforces values)
-- [Chapter 12: Measuring What Matters](executive_leadership_301_chapter_12.md) (Culture health metrics (engagement, attrition, inclusion))
+- [Chapter 03: The Operating System](chapter-03-the-operating-system.md) (Rituals embedded in the operating system)
+- [Chapter 05: Org Design & Talent Density](chapter-05-org-design-and-talent-density.md) (Org design, spans/layers, and talent density)
+- [Chapter 07: Executive Communication](chapter-07-executive-communication.md) (Storytelling that reinforces values)
+- [Chapter 12: Measuring What Matters](chapter-12-measuring-what-matters.md) (Culture health metrics (engagement, attrition, inclusion))
 
 ---
 
@@ -147,4 +153,4 @@ This doc evolves with our company—review and update quarterly.
 - [ ] Pulse survey mechanism active
 
 ## Next
-- [Chapter 10: Product & Platform Scaling](executive_leadership_301_chapter_10.md)
+- [Chapter 10: Product & Platform Scaling](chapter-10-product-and-platform-scaling.md)
