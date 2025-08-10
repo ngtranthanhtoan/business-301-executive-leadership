@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 8: Governance & Stakeholders
+# Chapter 8: Governance & Stakeholders
 
 ## Why This Chapter Matters
 At the executive level, you’re operating in a **network of obligations and influence**:  

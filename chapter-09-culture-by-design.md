@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 9: Culture by Design
+# Chapter 9: Culture by Design
 
 ## Why This Chapter Matters
 Culture isn’t just “how we do things around here.”  

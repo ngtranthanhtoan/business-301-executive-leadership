@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 6: Decision Architecture
+# Chapter 6: Decision Architecture
 
 ## Why This Chapter Matters
 As an executive, you’re less valuable as a **decision maker** and more valuable as a **decision architect** — designing **how** and **where** decisions get made so the organization can act fast without chaos.

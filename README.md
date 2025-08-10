@@ -26,4 +26,4 @@ This repository contains the Markdown files for the book *Executive Leadership 3
 - [Back Matter](back-matter.md)
 
 ## Templates
-Templates are available in the `
+Templates are available in the `templates/` directory and linked from the relevant chapters.

@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 5: Org Design & Talent Density
+# Chapter 5: Org Design & Talent Density
 
 ## Why This Chapter Matters
 Most strategy failures aren’t *thinking* problems — they’re **org design** problems.  

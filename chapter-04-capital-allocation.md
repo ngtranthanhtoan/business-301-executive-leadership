@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 4: Capital Allocation
+# Chapter 4: Capital Allocation
 
 ## Why This Chapter Matters
 At scale, your main job isn’t to “run projects” — it’s to **decide where the organization’s scarce resources go** and where they don’t.  

@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 7: Executive Communication
+# Chapter 7: Executive Communication
 
 ## Why This Chapter Matters
 At the executive level, communication is not “sharing information” — it’s **shaping perception and driving action**.  

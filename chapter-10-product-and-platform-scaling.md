@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 10: Product & Platform Scaling
+# Chapter 10: Product & Platform Scaling
 
 ## Why This Chapter Matters
 At some point, the bottleneck to growth isn’t market demand — it’s the company’s **ability to deliver at scale**.  

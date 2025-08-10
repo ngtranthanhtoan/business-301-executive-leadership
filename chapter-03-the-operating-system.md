@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 3: The Operating System
+# Chapter 3: The Operating System
 
 ## Why This Chapter Matters
 A company without an operating system (OS) is like a band without rhythm — even talented players sound chaotic. Your OS comprises the cadence, forums, and processes that make the organization’s work visible, decisions fast, and priorities consistent.

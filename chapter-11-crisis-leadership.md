@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 11: Crisis Leadership
+# Chapter 11: Crisis Leadership
 
 ## Why This Chapter Matters
 Crises are inevitable — outages, PR blow-ups, legal challenges, market shocks.  

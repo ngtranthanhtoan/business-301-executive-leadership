@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 12: Measuring What Matters
+# Chapter 12: Measuring What Matters
 
 ## Why This Chapter Matters
 At the executive level, metrics aren’t just numbers — they are **commitments**.  

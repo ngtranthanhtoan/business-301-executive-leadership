@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 1: The Executive Shift
+# Chapter 1: The Executive Shift
 
 ## What Changes at 301
 At this level, your role shifts from being the person who solves hard problems to being the person who shapes the conditions in which the entire enterprise solves problems. Your core responsibilities become allocating attention — the rarest and most valuable resource; setting context so decisions can be made without you in the room; selecting people and designing systems that endure beyond individual projects; and stewarding capital — not just money, but also time, brand, and technical leverage.

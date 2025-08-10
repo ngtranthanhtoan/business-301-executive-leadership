@@ -1,4 +1,4 @@
-# Executive Leadership 301 — Chapter 2: Strategy & Narrative
+# Chapter 2: Strategy & Narrative
 
 ## Why This Chapter Matters
 At the executive level, strategy and narrative are inseparable. A strategy without a compelling story will never be adopted, while a story without a solid strategy will eventually collapse. Your job is to define what game you’re playing, where you can win, and how you’ll win, then wrap that in a narrative that your teams, investors, and customers can retell without dilution.
